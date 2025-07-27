@@ -27,7 +27,7 @@ function draw() {
 // quad(100,80,150,80,150,130,100,130);
 fill(255,0,0)
 quad(50,162,86,150,50,138,14,150);
-fill(123,85,239)
+fill(123,85,248)
 quad(120,150,180,150,180,170,120,170);
 
   // Challenge 6: Add some colours to the drawings in the above challenges
