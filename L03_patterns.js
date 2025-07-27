@@ -17,7 +17,7 @@ circle(525,200,100);
 
   // Task 3: Row of Circles
 
-  // Task 4: Grid of
+  // Task 4: Grid of Circles
 
-  
+
 }
