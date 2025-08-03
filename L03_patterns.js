@@ -27,7 +27,7 @@ for (let i = 0; i<10; i++){
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
- rect(0,100,width,)
+ rect(0,100,width,400);
   // Task 4: Grid of Circles
 
 
