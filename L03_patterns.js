@@ -15,8 +15,8 @@ function draw() {
 // circle(375,200,100);
 // circle(525,200,100);
 for (let i = 0; i<10; i++){
-  fill(0,0,i * spaceing)
-  circle(spaceing + spaceing*50,200,40);
+  fill(0,0,i * spacing)
+  circle(spacing + spacing*50,200,40);
 }
   circle(50 + i*50,200,40);
 
