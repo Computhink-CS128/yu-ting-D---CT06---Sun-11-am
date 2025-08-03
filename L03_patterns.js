@@ -21,7 +21,7 @@ function draw() {
 //   fill(colorValue%255);
 //   circle(spacing + i*spacing,200,40);
 //   colorValue += 1;
-}
+
 
   // Task 1: Colour Gradient
 
@@ -33,7 +33,7 @@ for (let i = 0; i<10; i++){
   else {
     fill(255);
   }
-
+}
 
 
 
