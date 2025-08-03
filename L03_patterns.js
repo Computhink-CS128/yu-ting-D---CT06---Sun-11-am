@@ -29,7 +29,7 @@ function draw() {
   // Task 3: Row of Circles
 //  rect(0,100,width,200);
 //  cricle(width/2, height/2, 100);
-let diameter = 30;
+let diameter = 50;
 let numCircles = 5;
 let totalwidth = diameter*numCircles;
 let startX = (width - totalwidth)/2 + diameter;
