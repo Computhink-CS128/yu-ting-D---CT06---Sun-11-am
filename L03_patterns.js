@@ -30,8 +30,8 @@ function draw() {
 //  rect(0,100,width,200);
 //  cricle(width/2, height/2, 100);
 let diameter = 30;
-let numCir = 5;
-let totalwidth = diameter*numCri
+let numCircles = 5;
+let totalwidth = diameter*numCricl
 let startX = (width - totalwidth)/2 + diameter
 
 for(let i =0; 1<5 ; i++ ){
