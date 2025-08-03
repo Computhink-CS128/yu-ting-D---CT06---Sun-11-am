@@ -80,7 +80,7 @@ function draw() {
 //     }
 
 rect(0,100,width)
-circle()
+circle(width/2,)
 
 }
 
