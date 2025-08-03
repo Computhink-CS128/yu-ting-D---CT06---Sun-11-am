@@ -77,7 +77,7 @@ function draw() {
 //         // colorValue +=1; // colorValue = colorValue + 1;
 //     }
 
-rect()
+rect(0,)
 
 
 }
