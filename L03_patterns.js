@@ -27,8 +27,9 @@ function draw() {
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
- rect(0,100,width,200);
- cricle(width/2, height/2, 100);
+//  rect(0,100,width,200);
+//  cricle(width/2, height/2, 100);
+
   // Task 4: Grid of Circles
 
 }
