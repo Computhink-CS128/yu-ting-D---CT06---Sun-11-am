@@ -12,7 +12,7 @@ function draw() {
 // circle(375,200,100);
 // circle(525,200,100);
 for (let i = 0; i<10; i++){
-  fill(0,0,i * 100)
+  fill(40,50,i * 100)
   circle(50 + i*50,200,40);
 }
   circle(50 + i*50,200,40);
