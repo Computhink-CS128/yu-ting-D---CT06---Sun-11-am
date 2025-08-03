@@ -1,6 +1,6 @@
 let spacing = 50
 let width = 600
-let 
+let h
 
 
 function setup() {
