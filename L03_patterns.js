@@ -31,7 +31,7 @@ for (let i = 0; i<10; i++){
     fill(0);
   }
   else {
-    fill(255)
+    fill(255);
   }
 }
   circle(spacing = i*spacing,200,40);
