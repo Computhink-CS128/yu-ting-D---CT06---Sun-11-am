@@ -1,4 +1,4 @@
-let spacing = 50
+let spacing = 50;
 let colorValue = 0;
 
 function setup() {
