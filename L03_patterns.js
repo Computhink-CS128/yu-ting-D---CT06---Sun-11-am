@@ -80,7 +80,7 @@ function draw() {
 //         // colorValue +=1; // colorValue = colorValue + 1;
 //     }
 
-rect(0,100,width,100)
+rect(0,100,width,width)
 circle(width/2, hight/2,100)
 
 }
