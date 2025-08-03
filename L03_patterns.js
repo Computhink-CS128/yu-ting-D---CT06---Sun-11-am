@@ -16,9 +16,9 @@ function draw() {
 // circle(225,200,100);
 // circle(375,200,100);
 // circle(525,200,100);
-for (let i = 0; i<10; i++){
-  fill(0,0,i * spacing)
-  circle(spacing + i*spacing,200,40);
+// for (let i = 0; i<10; i++){
+//   fill(0,0,i * spacing)
+//   circle(spacing + i*spacing,200,40);
 }
   //circle(spacing + i*spacing,200,40);
 
@@ -32,4 +32,3 @@ for (let i = 0; i<10; i++){
   // Task 4: Grid of Circles
 
 
-}
