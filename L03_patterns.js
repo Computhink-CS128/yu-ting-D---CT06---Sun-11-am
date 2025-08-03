@@ -1,4 +1,4 @@
-let spaceing = 50
+let spacing = 50
 
 
 function setup() {
