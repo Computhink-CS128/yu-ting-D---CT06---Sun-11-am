@@ -19,7 +19,7 @@ function draw() {
 // for (let i = 0; i<10; i++){
 //   fill(0,0,i * spacing)
 //   circle(spacing + i*spacing,200,40);
-}
+
   //circle(spacing + i*spacing,200,40);
 
   // Task 1: Colour Gradient
@@ -31,4 +31,4 @@ function draw() {
  cricle(width/2,height/2,100)
   // Task 4: Grid of Circles
 
-
+}
