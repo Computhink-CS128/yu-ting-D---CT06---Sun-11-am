@@ -34,6 +34,7 @@ for (let i = 0; i<10; i++){
     fill(255)
   }
   circle(spacing = i*spacing,200,40);
+  circle(spacing = i*spacing,200,40);
 }
 
   // Task 3: Row of Circles
