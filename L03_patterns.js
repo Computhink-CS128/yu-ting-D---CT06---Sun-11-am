@@ -34,6 +34,8 @@ for (let i = 0; i<10; i++){
     fill(255);
   }
 }
+  circle(spacing + i*spacing,200,40);
+  rect(spacing + i*spacing,250,50,50);
 
 
 
