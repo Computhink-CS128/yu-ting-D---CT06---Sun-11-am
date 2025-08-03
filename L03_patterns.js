@@ -50,7 +50,7 @@
 // // let colorValue = 0;
 
 let width = 600
-let hight
+let hight = 600
 
 function setup() {
     createCanvas(600, 600);
