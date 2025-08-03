@@ -1,5 +1,5 @@
 let spacing = 50
-
+let width = 
 
 
 function setup() {
