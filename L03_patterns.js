@@ -31,7 +31,7 @@ for (let i = 0; i<10; i++){
     fill(0);
   }
   else {
-    fill(25)
+    fill(255)
   }
 }
 
