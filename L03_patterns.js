@@ -49,7 +49,7 @@
 // let spacing = 80; 
 // // let colorValue = 0;
 
-let width
+let wi
 
 function setup() {
     createCanvas(600, 600);
