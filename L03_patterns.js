@@ -15,12 +15,12 @@ function draw() {
 // circle(375,200,100);
 // circle(525,200,100);
 
-for (let i = 0; i<10; i++){
-  // fill(0,0,i * spacing)
-  // circle(spacing + spacing*50,200,40);
-  fill(colorValue%255);
-  circle(spacing + i*spacing,200,40);
-  colorValue += 1;
+// for (let i = 0; i<10; i++){
+//   // fill(0,0,i * spacing)
+//   // circle(spacing + spacing*50,200,40);
+//   fill(colorValue%255);
+//   circle(spacing + i*spacing,200,40);
+//   colorValue += 1;
 }
 
   // Task 1: Colour Gradient
@@ -33,7 +33,7 @@ for (let i = 0; i<10; i++){
   else {
     fill(255);
   }
-}
+
   circle(spacing + i*spacing,200,40);
   rect(spacing + i*spacing,250,50,50);
 
