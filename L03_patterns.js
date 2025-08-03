@@ -19,6 +19,7 @@ for (let i = 0; i<10; i++){
   // circle(spacing + spacing*50,200,40);
   fill(colorValue%255);
   circle(spacing + i*spacing);
+  colorValue
 }
   circle(50 + i*50,200,40);
 
