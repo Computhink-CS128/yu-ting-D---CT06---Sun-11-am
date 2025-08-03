@@ -34,7 +34,7 @@ let numCircles = 5;
 let totalwidth = diameter*numCircles;
 let startX = (width - totalwidth)/2 + diameter;
 
-for(let i =0; 1<5 ; i++ ){
+for(let i =0; i<5 ; i++ ){
   circle(startX + i*diameter,height/2,diameter);
 }
   // Task 4: Grid of Circles
