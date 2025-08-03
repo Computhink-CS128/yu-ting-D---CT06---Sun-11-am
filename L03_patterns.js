@@ -22,7 +22,6 @@ for (let i = 0; i<10; i++){
   circle(spacing + i*spacing,200,40);
   colorValue += 1;
 }
-  // circle(50 + i*50,200,40);
 
   // Task 1: Colour Gradient
 
