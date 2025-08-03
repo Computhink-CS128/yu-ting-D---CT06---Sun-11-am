@@ -49,11 +49,11 @@
 // let spacing = 80; 
 // // let colorValue = 0;
 
-// function setup() {
-//     createCanvas(600, 600);
-//     background(220);
-//     //no loop();
-// }
+function setup() {
+    createCanvas(600, 600);
+    background(220);
+    //no loop();
+}
 
 // function draw() {
 //     // fill(0, 0, 255);
@@ -76,7 +76,7 @@
         
 //         // colorValue +=1; // colorValue = colorValue + 1;
 //     }
-// }
+}
 
 
 
