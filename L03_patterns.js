@@ -32,7 +32,7 @@ function draw() {
 let diameter = 50;
 let numCircles = 5;
 let totalwidth = diameter*numCircles;
-let startX = (width - totalwidth)/2 + diameter;
+let startX = (width - totalwidth)/2 + diameter/2;
 
 for(let i =0; i<5 ; i++ ){
   circle(startX + i*diameter, height/2, diameter);
