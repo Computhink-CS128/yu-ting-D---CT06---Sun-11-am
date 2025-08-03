@@ -55,7 +55,7 @@ function setup() {
     //no loop();
 }
 
-// function draw() {
+function draw() {
 //     // fill(0, 0, 255);
 //     // circle(75, 200, 100);
 //     // circle(225, 200, 100);
@@ -76,30 +76,9 @@ function setup() {
         
 //         // colorValue +=1; // colorValue = colorValue + 1;
 //     }
+
+
+
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
