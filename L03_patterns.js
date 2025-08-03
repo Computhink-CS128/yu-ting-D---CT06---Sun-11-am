@@ -35,7 +35,7 @@ let totalwidth = diameter*numCri
 let startX = (width - totalwidth)/2 + diameter
 
 for(let i =0; 1<5 ; i++ ){
-  CSSNumericValue(startX + i*diameter,height/2,)
+  CSSNumericValue(startX + i*diameter,height/2,diameter);
 }
   // Task 4: Grid of Circles
 
