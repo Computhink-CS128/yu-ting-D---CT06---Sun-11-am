@@ -35,7 +35,7 @@ let totalwidth = diameter*numCri
 let startX = (width - totalwidth)/2 + diameter
 
 for(let i =0; 1<5 ; i++ ){
-  c
+  circ
 }
   // Task 4: Grid of Circles
 
