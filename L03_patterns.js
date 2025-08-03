@@ -29,7 +29,8 @@ function draw() {
   // Task 3: Row of Circles
 //  rect(0,100,width,200);
 //  cricle(width/2, height/2, 100);
-let diameter=
+let diameter = 30;
+
   // Task 4: Grid of Circles
 
 }
