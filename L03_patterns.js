@@ -28,7 +28,7 @@ for (let i = 0; i<10; i++){
 
   // Task 3: Row of Circles
  rect(0,100,width,400);
- cricle(wi)
+ cricle(width/2,)
   // Task 4: Grid of Circles
 
 
