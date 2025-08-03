@@ -28,7 +28,8 @@ for (let i = 0; i<10; i++){
   // Task 2: Colour Loop
 for (let i = 0; i<10; i++){
   if(i%2 === 0){
-    fill(255)
+    fill(0);
+  
   }
 }
   // Task 3: Row of Circles
