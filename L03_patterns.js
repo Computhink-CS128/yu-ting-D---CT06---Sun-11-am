@@ -31,7 +31,7 @@ function draw() {
 //  cricle(width/2, height/2, 100);
 let diameter = 30;
 let numcir = 5;
-let t
+let totalwidth = di
   // Task 4: Grid of Circles
 
 }
