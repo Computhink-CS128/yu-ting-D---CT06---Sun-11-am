@@ -32,10 +32,19 @@ function draw() {
 let diameter = 50;
 let numCircles = 5;
 let totalwidth = diameter*numCircles;
-let startX = (width - totalwidth)/2 + diameter/2;
+// let startX = (width - totalwidth)/2 + diameter/2;
+// let startY = (height - totalwidth)/2 + diameter/2;
+let startX = diameter/2;
+let startY = diameter/2;
 
-for(let i =0; i<5 ; i++ ){
-  circle(startX + i*diameter, height/2, diameter);
+
+for(let j=0; j<numCircles; j++){
+  let y = startY + j*diameter
+
+  for(let i =0; i<numCircles ; i++ ){
+    circle(startX + i*diameter , y, diameter);
+
+  }
 }
   // Task 4: Grid of Circles
 
