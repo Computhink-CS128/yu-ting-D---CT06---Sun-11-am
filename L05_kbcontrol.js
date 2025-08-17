@@ -31,5 +31,5 @@ function draw() {
 
     let topLeftX = 
 
-    rect()
+    rect(topLeftX,)
 }
