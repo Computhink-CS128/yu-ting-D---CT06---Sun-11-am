@@ -29,6 +29,6 @@ function draw() {
 // }
 
 function mouseMoved() {
-    // fill(random(255),random(255),random(255))
-    // circle(mouseX,mouseY,30,30);
+    fill(random(255),random(255),random(255))
+    circle(mouseX,mouseY,30,30);
 }
