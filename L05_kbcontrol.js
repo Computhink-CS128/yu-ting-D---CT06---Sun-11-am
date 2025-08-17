@@ -11,13 +11,13 @@ function setup() {
 }
 
 
-function mousePressed() {
-    fill(random(255),random(255),random(255));
-    circleSize =5;
-}
+// function mousePressed() {
+//     fill(random(255),random(255),random(255));
+//     circleSize =5;
+// }
 
-function mouseDragged() {
-    fill(shapeColor);
-    ellipse(mouseX,mouseY , circleSize,circleSize);
-    circleSize += 1;
-}
+// function mouseDragged() {
+//     fill(shapeColor);
+//     ellipse(mouseX,mouseY , circleSize,circleSize);
+//     circleSize += 0.000001;
+// }
