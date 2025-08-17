@@ -22,5 +22,5 @@ function setup() {
 //     circleSize += 0.000001;
 // }
 
-let recSize = 50
-
+let recSize = 50;
+function draw()
