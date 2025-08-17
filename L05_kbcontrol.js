@@ -26,5 +26,5 @@ let recSize = 50;
 function draw() {
     background(220);
 
-    let 
+    let centerX = wi
 }
