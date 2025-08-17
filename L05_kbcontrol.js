@@ -40,8 +40,9 @@ function keyPressed(){
     let count = floor(random(5,21));
 
     for(let i=0; i<count ; i++)
+        
         fill(random(255),random(255),random(255));
-        circle(random(width),random(height),random(10,80));
+        circle();
     
 
 }
