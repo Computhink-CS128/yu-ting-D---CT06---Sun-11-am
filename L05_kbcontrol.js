@@ -24,5 +24,7 @@ function setup() {
 
 let recSize = 50;
 function draw() {
-    background(220)
+    background(220);
+
+    let 
 }
