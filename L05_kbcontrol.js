@@ -31,5 +31,5 @@ function draw() {
 
     let topLeftX = centerX - recSize/2
     let topLeftY = centerY - recSize/2
-    rect(topLeftX,topLeftY, ce)
+    rect(topLeftX,topLeftY, recSize)
 }
