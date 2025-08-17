@@ -6,7 +6,7 @@ let circleSize = 5;
 function setup() {
     createCanvas(400,400);
     background(220)
-    // noStroke();
+    noStroke();
     
 }
 
@@ -36,3 +36,4 @@ function setup() {
 // }
 
 
+function keyPressed()
