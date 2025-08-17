@@ -37,7 +37,7 @@ function setup() {
 
 
 function keyPressed(){
-    let count = 
+    let count = random(5,21)
 
 }
 function keyReleased(){
