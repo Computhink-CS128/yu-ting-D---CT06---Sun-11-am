@@ -17,7 +17,8 @@ function mousePressed() {
 }
 
 function mouseDragged() {
-    fill(shapeColor);
+    // fill(shapeColor);
+    fill(random(255),random(255),random(255));
     ellipse(mouseX,mouseY , circleSize,circleSize);
     circleSize += 0.5;
 }
