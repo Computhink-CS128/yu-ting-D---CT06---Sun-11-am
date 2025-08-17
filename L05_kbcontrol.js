@@ -1,6 +1,6 @@
 // write your codes here
 
-let shapeColor = 'blue';
+let shapeColor = 'lime';
 let circleSize = 5;
 
 function setup() {
