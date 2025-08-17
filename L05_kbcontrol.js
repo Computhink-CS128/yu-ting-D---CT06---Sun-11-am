@@ -39,6 +39,6 @@ function setup() {
 function keyPressed(){
 
 }
-function keyPressed(){
+function keyReleased(){
     
 }
