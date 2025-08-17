@@ -22,15 +22,15 @@ function setup() {
 //     circleSize += 0.000001;
 // }
 
-let recSize = 50;
-function draw() {
-    background(220);
+// let recSize = 50;
+// function draw() {
+//     background(220);
 
-    let centerX = width/2;
-    let centerY = height/2;
+//     let centerX = width/2;
+//     let centerY = height/2;
 
-    let topLeftX = centerX - recSize/2
-    let topLeftY = centerY - recSize/2
+//     let topLeftX = centerX - recSize/2
+//     let topLeftY = centerY - recSize/2
 
-    rect(topLeftX,topLeftY, recSize,recSize)
-}
+//     rect(topLeftX,topLeftY, recSize,recSize)
+// }
