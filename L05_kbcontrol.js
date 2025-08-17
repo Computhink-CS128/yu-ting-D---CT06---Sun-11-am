@@ -29,7 +29,7 @@ function draw() {
     let centerX = width/2;
     let centerY = height/2;
 
-    let topLeftX = centerX - recSize 
-
+    let topLeftX = centerX - recSize/2
+    let topLeftY = centerX - recSize/2
     rect(topLeftX,)
 }
