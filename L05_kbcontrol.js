@@ -25,5 +25,6 @@ function mousePressed() {
 }
 
 function mouseDragged() {
-    fill(shapeco)
+    fill(shapeColor)
+    
 }
