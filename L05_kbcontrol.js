@@ -37,7 +37,7 @@ function setup() {
 
 
 function keyPressed(){
-    
+    let count = 
 
 }
 function keyReleased(){
