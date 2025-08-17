@@ -4,7 +4,7 @@ let shapeColor = 'lime';
 let circleSize = 5;
 
 function setup() {
-    createCanvas(800,800);
+    createCanvas(400,400);
     background(220)
     noStroke();
     
@@ -31,6 +31,6 @@ function draw() {
 
     let topLeftX = centerX - recSize/2
     let topLeftY = centerY - recSize/2
-    
+
     rect(topLeftX,topLeftY, recSize,recSize)
 }
