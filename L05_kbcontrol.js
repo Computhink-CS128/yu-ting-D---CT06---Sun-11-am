@@ -27,5 +27,5 @@ function mousePressed() {
 function mouseDragged() {
     fill(shapeColor)
     ellipse(mouseX,mouseY , circleSize,circleSize)
-    circleSize +=
+    circleSize += 0.1
 }
