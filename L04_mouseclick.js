@@ -28,7 +28,7 @@ function draw() {
 //     // shapeColor = color(random(255), random(255), random(255));
 // }
 
-function mouseMoved() {
-    fill(random(255),random(255),random(255))
-    circle(mouseX,mouseY,30,30);
-}
+// function mouseMoved() {
+//     fill(random(255),random(255),random(255))
+//     circle(mouseX,mouseY,30,30);
+
