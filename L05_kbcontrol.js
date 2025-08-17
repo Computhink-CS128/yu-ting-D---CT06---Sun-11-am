@@ -42,7 +42,7 @@ function keyPressed(){
     for(let i=0; i<count ; i++)
 
         fill(random(255),random(255),random(255));
-        eli();
+        ellipse();
     
 
 }
