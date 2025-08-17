@@ -25,5 +25,5 @@ function mousePressed() {
 }
 
 function mouseDragged() {
-    
+    fill(shapeco)
 }
