@@ -21,6 +21,8 @@ function draw() {
 // function mousePressed() {
 // //     shapeColor = 'red';
 //     shapeColor = color(random(255), random(255), random(255));
+    fill(random(255),random(255),random(255))
+    circle(mouseX,mouseY,30,30);
 // }
 
 // function mouseReleased() {
