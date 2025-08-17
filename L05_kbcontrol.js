@@ -40,12 +40,13 @@ function keyPressed(){
     let count = floor(random(5,21));
 
     for(let i=0; i<count ; i++)
-
+        let  = random(10,80);
+        let x = random(s)
         fill(random(255),random(255),random(255));
-        ellipse(x , y , s ,s );
+        ellipse(x , y , );
     
 
 }
 function keyReleased(){
-    background(220)
+    background(220);
 }
