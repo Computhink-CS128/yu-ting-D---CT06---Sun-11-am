@@ -52,4 +52,5 @@ function keyReleased(){
     background(220);
 }
 
-let a
+let a= 5;
+let b =
