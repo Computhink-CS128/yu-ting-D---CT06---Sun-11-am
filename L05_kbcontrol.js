@@ -1,7 +1,7 @@
 // write your codes here
 
-let shapeColor = 'lime';
-let circleSize = 5;
+// let shapeColor = 'lime';
+// let circleSize = 5;
 
 function setup() {
     createCanvas(400,400);
@@ -39,12 +39,13 @@ function setup() {
 function keyPressed(){
     let count = floor(random(5,21));
 
-    for(let i=0; i<count ; i++)
-        let  = random(10,80);
-        let x = random(s)
+    for(let i=0; i<count ; i++){
+        let size = floor(random(10,80));
+        let x = random(size/2, width - size/2)
+        let y = random(size/2, height - size/2)
         fill(random(255),random(255),random(255));
-        ellipse(x , y , );
-    
+        ellipse(x , y ,size,size );
+    }
 
 }
 function keyReleased(){
