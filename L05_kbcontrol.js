@@ -74,6 +74,6 @@ function draw() {
 
 function keyPressed(){
     if (key == 'c'){
-        sh
+        showCircle = !show
     }
 }
