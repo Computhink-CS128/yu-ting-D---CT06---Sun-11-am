@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
-    // rect(width/2 - size/2 ,height/2 - size/2 ,size ,50)
+    // rect(width/2 - size/2 ,height/2 - size/2 ,size ,size)
 
     for(let i; i>5; i++){
         fill
