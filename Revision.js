@@ -4,5 +4,5 @@ function setup() {
 }
 
 function draw() {
-    rect(x,y,width,)
+    rect(x,y,width,height)
 }
