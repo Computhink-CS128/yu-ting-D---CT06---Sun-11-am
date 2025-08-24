@@ -23,7 +23,6 @@ function draw() {
   //circle(spacing + i*spacing,200,40);
 
   // Task 1: Colour Gradient
-
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
