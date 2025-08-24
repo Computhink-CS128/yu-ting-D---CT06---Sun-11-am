@@ -8,6 +8,6 @@ function draw() {
 
     for(let i; i>5; i++){
         fill(0,i*50,0)
-        circle(x + i*50 ,y+ i*50,50)
+        circle(50 + i*50 ,50+ i*50,50)
     }
 }
