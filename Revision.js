@@ -4,5 +4,5 @@ function setup() {
 }
 
 function draw() {
-    rect(XMLDocument,)
+    rect(x,y)
 }
