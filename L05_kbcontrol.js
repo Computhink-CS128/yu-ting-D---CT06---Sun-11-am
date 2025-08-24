@@ -69,7 +69,7 @@ function setup() {
 
 function draw() {
     background(220);
-    if(sh)
+    if(showCircle)
     circle(width/2,height/2,100)
 
 }
