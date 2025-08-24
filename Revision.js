@@ -7,6 +7,6 @@ function draw() {
     // rect(600/2 ,400/2 ,50 ,50)
 
     for(let i; i>5; i++){
-        circle(x,y)
+        circle(x + i,y)
     }
 }
