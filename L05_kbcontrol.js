@@ -69,7 +69,7 @@ function setup() {
 
 function draw() {
     background(220);
-    c
+    circle(width/2)
 
 }
 
