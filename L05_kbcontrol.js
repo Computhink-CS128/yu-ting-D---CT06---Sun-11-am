@@ -36,24 +36,25 @@ function setup() {
 // }
 
 
-function keyPressed(){
-    let count = floor(random(5,21));
+// function keyPressed(){
+//     let count = floor(random(5,21));
 
-    for(let i=0; i<count ; i++){
-        let size = floor(random(10,80));
-        let x = random(size/2, width - size/2)
-        let y = random(size/2, height - size/2)
-        fill(random(255),random(255),random(255));
-        ellipse(x , y ,size,size );
-    }
+//     for(let i=0; i<count ; i++){
+//         let size = floor(random(10,80));
+//         let x = random(size/2, width - size/2)
+//         let y = random(size/2, height - size/2)
+//         fill(random(255),random(255),random(255));
+//         ellipse(x , y ,size,size );
+//     }
 
-}
-function keyReleased(){
-    background(220);
-}
+// }
+// function keyReleased(){
+//     background(220);
+// }
 
-let a= 5;
-let b ="5";
-let c =234567
+// let a= 5;
+// let b ="5";
+// let c =234567
 
-console.log(a===b)
+// console.log(a===b)
+
