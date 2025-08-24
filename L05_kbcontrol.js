@@ -58,7 +58,7 @@
 
 // console.log(a===b)
 
-let showcircle = false
+let showCircle = false
 
 function setup() {
     createCanvas(400,400);
