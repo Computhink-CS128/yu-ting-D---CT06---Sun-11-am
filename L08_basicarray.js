@@ -28,8 +28,8 @@ function draw(){
 //sound :DD
 let pic;
 function preload(){
-    bgsound = loadSound("assets/bossaNova.mp3")
-    pic = loadImage("assets/pico-a.png")
+    bgsound = loadSound("assets/bossaNova.mp3"); //sound
+    pic = loadImage("assets/pico-a.png");
 }
 
 
