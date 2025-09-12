@@ -5,5 +5,5 @@ function setup() {
 }
 
 function draw(){
-    text("HIWO :33", width/2, height/2)
+    text("HIWO :33", width/2, height/2);
 }
