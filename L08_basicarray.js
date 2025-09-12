@@ -2,8 +2,8 @@
 let posx, posy;
 
 function setup() {
-  createCanvas(600 , 400);
- background(220);
+    createCanvas(600 , 400);
+    background(220);
 
  posx = width/2 //starting value
  posy = height/2 //starting value
