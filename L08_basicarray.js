@@ -27,8 +27,9 @@ function draw(){
 
 //sound :DD
 let pic;
-function preload()
+function preload(){
     
+}
 
 
     
