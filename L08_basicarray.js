@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw(){
-    textAl
+    textAlign(Center)
     textSize(20); //size of text
     text("HIWO :33", width/2, height/2);
 }
