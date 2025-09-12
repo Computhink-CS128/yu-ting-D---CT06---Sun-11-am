@@ -20,7 +20,7 @@ function draw(){
 
     //go off the screen and come back the other side
     if (posx>width){
-        posx = 0;
+        posx = -100;
     }
     
 }
