@@ -1,5 +1,5 @@
 // write your codes here
-let
+let posx, posy;
 
 
 function setup() {
