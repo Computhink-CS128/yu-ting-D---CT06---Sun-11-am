@@ -16,4 +16,5 @@ function draw(){
     text("HIWO X33", posx, posy);
     // changes the value of posx
     posx = posx + Xspeed
+    background(220);
 }
