@@ -1,3 +1,3 @@
 // write your codes here
-funt
+function setup(){\}
 
