@@ -29,6 +29,7 @@ function draw(){
 let pic;
 function preload(){
     bgsound = loadSound("assets/bossaNova.mp3")
+    pic = loadimm
 }
 
 
