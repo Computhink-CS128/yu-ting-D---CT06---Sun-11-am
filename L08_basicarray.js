@@ -22,8 +22,9 @@ function draw(){
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
     text("HIWO X33", posx, posy);
-    //sound
+    // sound/image
     
+
     // changes the value of posx
     posx = posx + Xspeed
 
