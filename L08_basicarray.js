@@ -35,7 +35,7 @@ function draw(){
 
 }
 
-function mousepressed(){
+function mousePressed(){
     bgsound.play();
 }
 
