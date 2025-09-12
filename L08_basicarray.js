@@ -7,7 +7,7 @@ function setup() {
     background(220);
 
      posx = width/2; //starting value
-    posy = height/2;//starting value
+    posy = height/2; //starting value
 }
 
 function draw(){
