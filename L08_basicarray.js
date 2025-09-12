@@ -1,5 +1,5 @@
 // write your codes here
-let Xspeed = 1;
+let Xspeed = 3;
 let posx, posy;
 
 function setup() {
@@ -20,7 +20,7 @@ function draw(){
 
     //go off the screen and come back the other side
     if (posx>width){
-        posx = -150;
+        posx = -120;
     }
     
 }
