@@ -23,7 +23,7 @@ function draw(){
     textSize(20); //size of text
     text("HIWO X33", posx, posy);
     // sound/image
-    
+    image()
 
     // changes the value of posx
     posx = posx + Xspeed
