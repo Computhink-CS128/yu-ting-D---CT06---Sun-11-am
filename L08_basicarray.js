@@ -18,6 +18,6 @@ function draw(){
     // changes the value of posx
     posx = posx + Xspeed
 
-    //
+    //go off the 
     
 }
