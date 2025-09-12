@@ -11,6 +11,8 @@ function setup() {
 }
 
 function draw(){
+
+}
     background("lime");
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
@@ -19,10 +21,9 @@ function draw(){
     posx = posx + Xspeed
 
     //go off the screen and come back the other side
-    // if (posx>width){
-    //     posx = -50;
-    
-
+    if (posx>width){
+        posx = -50;
     }
-    
 
+
+    
