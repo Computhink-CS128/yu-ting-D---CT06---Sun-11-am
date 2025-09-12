@@ -28,7 +28,7 @@ function draw(){
 //sound :DD
 let pic;
 function preload(){
-    bgsound = loadSound
+    bgsound = loadSound("")
 }
 
 
