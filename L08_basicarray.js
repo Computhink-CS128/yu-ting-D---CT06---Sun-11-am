@@ -5,6 +5,6 @@ function setup() {
 }
 
 function draw(){
-    textSize(10)
+    textSize(10); //siz
     text("HIWO :33", width/2, height/2);
 }
