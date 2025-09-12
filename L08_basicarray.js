@@ -1,6 +1,13 @@
 // write your codes here
 let Xspeed = 3;
 let posx, posy;
+//sound :DD
+let pic;
+function preload(){
+    bgsound = loadSound("assets/bossaNova.mp3"); //sound
+    pic = loadImage("assets/pico-a.png"); //image
+}
+//sound :DD
 
 function setup() {
     createCanvas(600 , 400);
@@ -25,12 +32,6 @@ function draw(){
 
 }
 
-//sound :DD
-let pic;
-function preload(){
-    bgsound = loadSound("assets/bossaNova.mp3"); //sound
-    pic = loadImage("assets/pico-a.png"); //image
-}
-//sound :DD
+
 
     
