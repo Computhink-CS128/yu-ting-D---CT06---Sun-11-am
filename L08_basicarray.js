@@ -29,7 +29,7 @@ function draw(){
 let pic;
 function preload(){
     bgsound = loadSound("assets/bossaNova.mp3"); //sound
-    pic = loadImage("assets/pico-a.png");
+    pic = loadImage("assets/pico-a.png"); //image
 }
 
 
