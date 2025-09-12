@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw(){
-    background();
+    background("lightblue");
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
     text("HIWO X33", posx, posy);
