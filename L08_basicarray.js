@@ -1,5 +1,5 @@
 // write your codes here
-let Xspeed = 1;
+let Xspeed = ;
 let posx, posy;
 
 function setup() {
