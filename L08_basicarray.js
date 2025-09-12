@@ -14,7 +14,7 @@ function draw(){
     background("lime");
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
-    text("HIWO X33", posx, posy);
+    text("HIWO X33                      HAI", posx, posy);
     // changes the value of posx
     posx = posx + Xspeed
 
