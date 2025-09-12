@@ -12,5 +12,5 @@ function setup() {
 function draw(){
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
-    text("HIWO X33", width/2, height/2);
+    text("HIWO X33", posx, posy);
 }
