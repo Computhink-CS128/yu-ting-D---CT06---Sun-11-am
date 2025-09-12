@@ -5,7 +5,7 @@ function setup() {
   createCanvas(600 , 400);
  background(220);
 
- posx = width/2
+ posx = width/2 //starting value
 }
 
 function draw(){
