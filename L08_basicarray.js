@@ -26,7 +26,7 @@ function draw(){
 }
 
 //sound :DD
-e
+let pic;
     
 
 
