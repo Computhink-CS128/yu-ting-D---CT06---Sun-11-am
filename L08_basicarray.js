@@ -24,7 +24,7 @@ function draw(){
     text("HIWO X33", posx, posy);
     // sound/image
     image(pic,50,50,110,133); //draw pico 
-
+    // image
     // changes the value of posx
     posx = posx + Xspeed
 
