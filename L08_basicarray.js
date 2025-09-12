@@ -22,6 +22,6 @@ function draw(){
     // if (posx>width){
     //     posx = -50;
 
-    // }
+    }
     
-}
+
