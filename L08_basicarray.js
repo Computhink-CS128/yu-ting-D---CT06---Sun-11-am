@@ -11,8 +11,6 @@ function setup() {
 }
 
 function draw(){
-
-}
     background("lime");
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
@@ -24,6 +22,9 @@ function draw(){
     if (posx>width){
         posx = -50;
     }
+}
+
+    
 
 
     
