@@ -4,6 +4,8 @@ let posx, posy;
 function setup() {
   createCanvas(600 , 400);
  background(220);
+
+ posx = width/2
 }
 
 function draw(){
