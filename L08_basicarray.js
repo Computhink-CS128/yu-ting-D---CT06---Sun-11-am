@@ -15,5 +15,5 @@ function draw(){
     textSize(20); //size of text
     text("HIWO X33", posx, posy);
     // changes the value of posx
-    po
+    posx = posx + Xspeed
 }
