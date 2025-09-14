@@ -5,6 +5,9 @@ function setup() {
     
 }
 
+function draw(){
+    
+}
 
 
 
