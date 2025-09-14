@@ -86,4 +86,6 @@ let x = 300
 let y = 200
 let size = 30
 let speedx = 2
-let speedy =
+let speedy = 2
+
+
