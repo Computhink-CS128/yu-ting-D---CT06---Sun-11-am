@@ -16,6 +16,10 @@ function draw(){
         x += 2;
     }
 
+    if (keyIsDown(RIGHT_ARROW)){
+        x += 2;
+    }
+
     circle(x,y,50);
 }
 
