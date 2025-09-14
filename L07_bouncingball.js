@@ -88,4 +88,6 @@ let size = 30
 let speedx = 2
 let speedy = 2
 
-
+function setup(){
+    createCanvas(600,400)
+}
