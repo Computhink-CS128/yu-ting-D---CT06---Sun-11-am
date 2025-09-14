@@ -50,7 +50,3 @@ function draw(){
     background("lightBlue");
     image(staticImg,x ,y ,80 ,80 );
 }
-
- function mousePressed(){
-    bgsound.play();
-}
