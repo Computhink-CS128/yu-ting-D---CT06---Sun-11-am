@@ -1,10 +1,11 @@
 // write your codes here
-let x = 200
+let x = 200;
+let y = 200;
 
 
 function setup() {
     createCanvas(600,600);
-    background(220)
+    background(220);
     
 }
 
