@@ -75,5 +75,5 @@ function draw(){
 }
 
 function keyReleased(){
-    
+    imgwidth()
 }
