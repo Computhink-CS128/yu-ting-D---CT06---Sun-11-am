@@ -71,7 +71,7 @@ function draw(){
         y += 2;
     }
         if (x>width){
-        posx = -50;
+        x = -50;
             }
     image(staticImg,x ,y ,imgwidth ,imgheight );
 }
