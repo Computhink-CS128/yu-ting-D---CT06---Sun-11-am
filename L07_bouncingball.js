@@ -71,10 +71,6 @@ function draw(){
         y += 2;
     }
 
-    if (keyIsDown(SPACE_BAR)){
-        imgwidth -= imgwidth/2;
-        sound.play();
-    }
 
 
     image(staticImg,x ,y ,imgwidth ,imgheight );
