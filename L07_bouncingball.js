@@ -70,8 +70,6 @@ function draw(){
     if (keyIsDown(DOWN_ARROW)){
         y += 2;
     }
-        if (x>width){
-        x = -50;
-            }
+
     image(staticImg,x ,y ,imgwidth ,imgheight );
 }
