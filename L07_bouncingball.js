@@ -34,7 +34,10 @@
 //     circle(x,y,50);
 // }
 let pic;
-let ;
+let sound;
+function preload(){
+    
+}
 
 
 
