@@ -105,8 +105,8 @@ function draw() {
         speedy *=-1
     }
 
-    }
+    
 
     noStroke();
     circle(x,y,size);
-
+}
