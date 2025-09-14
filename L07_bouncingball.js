@@ -95,8 +95,6 @@ function setup(){
 
 function draw() {
     background(220);
-    x += speedx;
-    y += speedy;
 
     if(x-size/2<=0 || x+size/2>=width){
         speedx *=-1
@@ -104,7 +102,8 @@ function draw() {
     if(y-size/2<=0 || y+size/2>=width){
         speedy *=-1
     }
-
+    x += speedx;
+    y += speedy;
     
 
     noStroke();
