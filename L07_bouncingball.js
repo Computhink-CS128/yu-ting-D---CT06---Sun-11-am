@@ -72,7 +72,8 @@ function draw(){
     }
 
     if (keyIsDown(SPACE_BAR)){
-        imgwidth -= im
+        imgwidth -= imgwidth/2
+        
     }
 
 
