@@ -103,7 +103,7 @@ function draw() {
     }
 
     if(y - size/2 <= 0){
-        speedx = speedy * -1
+        speedy = speedy * -1
     }
 
     noStroke();
