@@ -40,7 +40,7 @@ function preload(){
     sound= LoadSound("assets/pop.mp3");
 }
 function setup(){
-    
+    create
 }
 
 function draw(){
