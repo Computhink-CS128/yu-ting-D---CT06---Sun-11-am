@@ -85,7 +85,7 @@
 let x = 300;
 let y = 200;
 let size = 30;
-let speedx = 2;
+let speedx = 10;
 let speedy = 2;
 
 function setup(){
@@ -101,6 +101,7 @@ function draw() {
     }
     if(y-size/2<=0 || y+size/2>=height){
         speedy *=-1;
+        fill(random(255),random(255),random(255))
     }
 
     x += speedx;
