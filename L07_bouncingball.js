@@ -71,7 +71,9 @@ function draw(){
         y += 2;
     }
 
-
-
     image(staticImg,x ,y ,imgwidth ,imgheight );
+}
+
+function keyReleased(){
+    
 }
