@@ -49,4 +49,22 @@ function setup(){
 function draw(){
     background("lightBlue");
     image(staticImg,x ,y ,80 ,80 );
+    //     x = constrain (x,25,width-25)
+//     y = constrain (y,25,height-25)
+
+
+//     if (keyIsDown(RIGHT_ARROW)){
+//         x += 2;
+//     }
+
+//     if (keyIsDown(LEFT_ARROW)){
+//         x -= 2;
+//     }
+//         if (keyIsDown(UP_ARROW)){
+//         y -= 2;
+//     }
+
+//     if (keyIsDown(DOWN_ARROW)){
+//         y += 2;
+//     }
 }
