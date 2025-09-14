@@ -12,7 +12,8 @@ function setup() {
 
 function draw(){
     // background(220);
-    comstrain(x,25,width-25)
+    constrain (x,25,width-25)
+    
 
     if (keyIsDown(RIGHT_ARROW)){
         x += 2;
