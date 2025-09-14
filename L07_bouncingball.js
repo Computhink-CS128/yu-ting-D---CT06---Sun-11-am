@@ -93,6 +93,6 @@ function setup(){
 }
 
 function setup() {
-    
+circle(x,y,50);
 }
-circle(x,y,size);
+circle(x,y,50);
