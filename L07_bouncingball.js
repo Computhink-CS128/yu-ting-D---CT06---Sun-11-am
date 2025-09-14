@@ -37,7 +37,7 @@ let pic;
 let sound;
 let x = 200;
 let y = 200;
-
+let speed = 5;
 let imgwidth = 80;
 let imgheight = 80;
 
