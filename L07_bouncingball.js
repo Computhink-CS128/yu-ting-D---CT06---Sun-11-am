@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw(){
-    background(220);
+    // background(220);
 
     if (keyIsDown(RIGHT_ARROW)){
         x += 2;
