@@ -1,4 +1,4 @@
-// write your codes here
+// write your codes here\
 function setup() {
     createCanvas(600,600);
     background(220)
@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw(){
-    background();
+    background(220);
 }
 
 
