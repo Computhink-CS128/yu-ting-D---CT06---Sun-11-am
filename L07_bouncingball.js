@@ -37,12 +37,13 @@ let pic;
 let sound;
 let x = 200;
 let y = 200;
+
 let imgwidth = 80;
 let imgheight = 80;
 
 function preload(){
     staticImg = loadImage("assets/pico-a.png");
-    sound= loadSound("assets/pop.mp3");
+    sound = loadSound("assets/pop.mp3");
 }
 function setup(){
     createCanvas(600,400)
