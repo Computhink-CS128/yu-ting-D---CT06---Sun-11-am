@@ -33,7 +33,8 @@
 
 //     circle(x,y,50);
 // }
-
+let pic;
+let ;
 
 
 
