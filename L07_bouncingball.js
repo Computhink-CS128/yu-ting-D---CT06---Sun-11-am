@@ -70,5 +70,5 @@ function draw(){
     if (keyIsDown(DOWN_ARROW)){
         y += 2;
     }
-    image(staticImg,x ,y ,80 ,80 );
+    image(staticImg,x ,y ,imgwidth ,80 );
 }
