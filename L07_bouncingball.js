@@ -12,8 +12,11 @@ function setup() {
 function draw(){
     background(220);
 
-    if (keyIsDown(RIGHT_ARROW))
-    circle(x,y,50)
+    if (keyIsDown(RIGHT_ARROW)){
+        
+    }
+
+    circle(x,y,50);
 }
 
 
