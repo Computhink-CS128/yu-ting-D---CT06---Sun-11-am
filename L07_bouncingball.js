@@ -39,7 +39,7 @@ let x = 200;
 let y = 200;
 
 function preload(){
-    pic = LoadImage("assets/pico-a.png");
+    staticImg = LoadImage("assets/pico-a.png");
     sound= LoadSound("assets/pop.mp3");
 }
 function setup(){
