@@ -98,6 +98,8 @@ function draw() {
     x += speedx;
     y += speedy;
 
+    if(x)
+
     noStroke();
     circle(x,y,size);
 }
