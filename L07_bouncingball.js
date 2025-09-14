@@ -98,7 +98,7 @@ function draw() {
 
     if(x-size/2<=0 || x+size/2>=width){
         speedx *=-1;
-        fill(random,random,random);
+        fill
     }
     if(y-size/2<=0 || y+size/2>=height){
         speedy *=-1;
