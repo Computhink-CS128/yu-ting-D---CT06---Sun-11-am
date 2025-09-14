@@ -35,7 +35,8 @@
 // }
 let pic;
 let sound;
-let x
+let x = 200;
+lety
 
 function preload(){
     pic = LoadImage("assets/pico-a.png");
