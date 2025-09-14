@@ -48,7 +48,7 @@ function setup(){
 
 function draw(){
     background("lightBlue");
-    image(pic,x,y,80,80);
+    image(pic,x ,y ,80 ,80 );
 }
 
  function mousePressed(){
