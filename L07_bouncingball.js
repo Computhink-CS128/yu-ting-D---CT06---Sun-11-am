@@ -94,6 +94,7 @@ function setup(){
 }
 
 function draw() {
+    
     noStroke();
     circle(x,y,size);
 }
