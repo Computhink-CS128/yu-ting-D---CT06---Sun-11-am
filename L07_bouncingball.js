@@ -82,12 +82,12 @@
 // }  
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-let x = 300
-let y = 200
-let size = 30
-let speedx = 1
-let speedy = 1
+let x = 300;
+let y = 200;
+let size = 30;
+let speedx = 1;
+let speedy = 1;
 
 function setup(){
-    createCanvas(600,400)
+    createCanvas(600,400);
 }
