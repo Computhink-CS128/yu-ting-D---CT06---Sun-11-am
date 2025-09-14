@@ -4,11 +4,11 @@
 // let speed = 2;
 
 
-function setup() {
-    createCanvas(600,600);
-    background(220);
+// function setup() {
+//     createCanvas(600,600);
+//     background(220);
     
-}
+// }
 
 // function draw(){
 //     background(220);
@@ -38,6 +38,9 @@ let sound;
 function preload(){
     pic = LoadImage("assets/pico-a.png");
     sound= LoadSound("assets/pop.mp3");
+}
+function setup(){
+    
 }
 
 function draw(){
