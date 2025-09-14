@@ -50,7 +50,7 @@ function setup(){
 
 function draw(){
     // background("lightBlue");
-    image(staticImg,x ,y ,imgwidth,imgheigh);
+    image(staticImg,x , y, imgwidth, imgheigh);
 
     x = constrain (x,25,width-25);
     y = constrain (y,25,height-25);
