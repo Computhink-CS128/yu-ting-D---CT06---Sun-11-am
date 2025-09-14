@@ -4,11 +4,11 @@
 // let speed = 2;
 
 
-// function setup() {
-//     createCanvas(600,600);
-//     background(220);
+function setup() {
+    createCanvas(600,600);
+    background(220);
     
-// }
+}
 
 // function draw(){
 //     background(220);
@@ -41,7 +41,7 @@ function preload(){
 }
 
 function draw(){
-    background("light");
+    background("lightBlue");
     image(pic,50,50,110,133);
 }
 
