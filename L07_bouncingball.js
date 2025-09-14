@@ -84,7 +84,7 @@
 
 let x = 300;
 let y = 200;
-let size = 500;
+let size = 50;
 let speedx = 5;
 let speedy = 5;
 
