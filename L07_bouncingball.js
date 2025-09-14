@@ -69,7 +69,7 @@ function draw(){
     }
 
     if (keyIsDown(DOWN_ARROW)){
-        y += 2;
+        y += speed;
     }
 
     image(staticImg,x ,y ,imgwidth ,imgheight );
