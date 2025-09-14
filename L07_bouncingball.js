@@ -77,5 +77,5 @@ function draw(){
 
 function keyReleased(){
     imgwidth = 80;
-    sound.pause();
+    sound.play();
 }
