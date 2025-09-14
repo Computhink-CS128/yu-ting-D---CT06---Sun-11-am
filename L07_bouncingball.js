@@ -71,10 +71,10 @@ function draw(){
         y += 2;
     }
 
-    // if (keyIsDown(SPACE_BAR)){
-    //     imgwidth -= imgwidth/2;
-    //     bgsound.play();
-    // }
+    if (keyIsDown(SPACE_BAR)){
+        imgwidth -= imgwidth/2;
+        bgsound.play();
+    }
 
 
     image(staticImg,x ,y ,imgwidth ,imgheight );
