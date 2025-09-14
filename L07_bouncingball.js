@@ -97,10 +97,10 @@ function draw() {
     background(220);
 
     if(x-size/2<=0 || x+size/2>=width){
-        speedx *=-1
+        speedx *=-1;
     }
     if(y-size/2<=0 || y+size/2>=width){
-        speedy *=-1
+        speedy *=-1;
     }
 
     x += speedx;
