@@ -38,7 +38,7 @@ let sound;
 let x = 200;
 let y = 200;
 let imgwidth = 80;
-let 
+let imgheight = 80;
 
 function preload(){
     staticImg = loadImage("assets/pico-a.png");
