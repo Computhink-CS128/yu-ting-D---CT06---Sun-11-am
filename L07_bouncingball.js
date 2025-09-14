@@ -35,6 +35,8 @@
 // }
 let pic;
 let sound;
+let x
+
 function preload(){
     pic = LoadImage("assets/pico-a.png");
     sound= LoadSound("assets/pop.mp3");
