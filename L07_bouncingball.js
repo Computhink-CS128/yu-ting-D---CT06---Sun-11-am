@@ -93,7 +93,7 @@ function setup(){
     background(220)
 }
 
-function setup() {
+function draw() {
     noStroke();
     circle(x,y,size);
 }
