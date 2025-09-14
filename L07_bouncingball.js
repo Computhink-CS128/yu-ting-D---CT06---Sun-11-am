@@ -53,8 +53,8 @@ function draw(){
     background("lightBlue");
     image(staticImg, x, y, 80, 80);
 
-    x = constrain (x,25,width-25);
-    y = constrain (y,25,height-25);
+    x = constrain(x,25,width-25);
+    y = constrain(y,25,height-25);
 
 
     if (keyIsDown(RIGHT_ARROW)){
