@@ -37,7 +37,7 @@ let pic;
 let sound;
 function preload(){
     pic = LoadImage("assets/pico-a.png")
-    sound()
+    sound= Load
 }
 
 
