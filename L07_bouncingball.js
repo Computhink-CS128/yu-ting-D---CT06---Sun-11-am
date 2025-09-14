@@ -93,6 +93,6 @@ function setup(){
 }
 
 function setup() {
-    noStroke()
+    noStroke();
     circle(x,y,size);
 }
