@@ -94,8 +94,9 @@ function setup(){
 }
 
 function draw() {
-    x = x- speedx
-    
+    x = x - speedx
+    x = x - speedx
+
     noStroke();
     circle(x,y,size);
 }
