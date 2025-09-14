@@ -39,8 +39,8 @@ let x = 200;
 let y = 200;
 
 function preload(){
-    staticImg = LoadImage("assets/pico-a.png");
-    sound= LoadSound("assets/pop.mp3");
+    staticImg = loadImage("assets/pico-a.png");
+    sound= loadSound("assets/pop.mp3");
 }
 function setup(){
     createCanvas(600,400)
