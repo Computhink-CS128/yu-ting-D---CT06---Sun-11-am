@@ -48,4 +48,6 @@ function draw(){
     image(pic,50,50,110,133);
 }
 
- 
+ function mousePressed(){
+    bgsound.play();
+}
