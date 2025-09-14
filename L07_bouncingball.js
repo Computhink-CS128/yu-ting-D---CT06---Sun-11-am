@@ -40,7 +40,7 @@ function preload(){
     sound= LoadSound("assets/pop.mp3");
 }
 function setup(){
-    create
+    createCanvas(400,600)
 }
 
 function draw(){
