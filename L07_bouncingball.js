@@ -41,7 +41,7 @@ function preload(){
 }
 
 function draw(){
-    background(220);
+    background("light");
     image(pic,50,50,110,133);
 }
 
