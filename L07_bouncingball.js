@@ -36,7 +36,7 @@
 let pic;
 let sound;
 function preload(){
-    pic = LoadImmage
+    pic = LoadImage
 }
 
 
