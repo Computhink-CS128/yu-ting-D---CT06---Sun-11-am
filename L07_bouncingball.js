@@ -33,49 +33,50 @@
 
 //     circle(x,y,50);
 // }
-let pic;
-let sound;
-let x = 200;
-let y = 200;
-let speed = 5;
-let imgwidth = 80;
-let imgheight = 80;
+//////////////////////////////////////////////////////////////////
+// let pic;
+// let sound;
+// let x = 200;
+// let y = 200;
+// let speed = 5;
+// let imgwidth = 80;
+// let imgheight = 80;
 
-function preload(){
-    staticImg = loadImage("assets/pico-a.png");
-    sound = loadSound("assets/pop.mp3");
-}
-function setup(){
-    createCanvas(600,400)
-}
+// function preload(){
+//     staticImg = loadImage("assets/pico-a.png");
+//     sound = loadSound("assets/pop.mp3");
+// }
+// function setup(){
+//     createCanvas(600,400)
+// }
 
-function draw(){
-    background("lightBlue");
-    image(staticImg, x, y, 80, 80);
+// function draw(){
+//     background("lightBlue");
+//     image(staticImg, x, y, 80, 80);
 
-    x = constrain(x,25,width-25);
-    y = constrain(y,25,height-25);
+//     x = constrain(x,25,width-25);
+//     y = constrain(y,25,height-25);
 
 
-    if (keyIsDown(RIGHT_ARROW)){
-        x += speed;
-    }
+//     if (keyIsDown(RIGHT_ARROW)){
+//         x += speed;
+//     }
 
-    if (keyIsDown(LEFT_ARROW)){
-        x -= speed;
-    }
-        if (keyIsDown(UP_ARROW)){
-        y -= speed;
-    }
+//     if (keyIsDown(LEFT_ARROW)){
+//         x -= speed;
+//     }
+//         if (keyIsDown(UP_ARROW)){
+//         y -= speed;
+//     }
 
-    if (keyIsDown(DOWN_ARROW)){
-        y += speed;
-    }
+//     if (keyIsDown(DOWN_ARROW)){
+//         y += speed;
+//     }
 
-    image(staticImg,x ,y ,imgwidth ,imgheight );
-}
+//     image(staticImg,x ,y ,imgwidth ,imgheight );
+// }
 
-function keyReleased(){
-    imgwidth = 80;
-    sound.play();
-}  
+// function keyReleased(){
+//     imgwidth = 80;
+//     sound.play();
+// }  
