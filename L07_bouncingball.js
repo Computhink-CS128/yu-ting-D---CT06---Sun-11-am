@@ -71,7 +71,9 @@ function draw(){
         y += 2;
     }
 
-    if (keyIsDown(SPACE_BAR))
+    if (keyIsDown(SPACE_BAR)){
+        
+    }
 
 
     image(staticImg,x ,y ,imgwidth ,imgheight );
