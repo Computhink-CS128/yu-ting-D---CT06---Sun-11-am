@@ -72,8 +72,8 @@ function draw(){
     }
 
     if (keyIsDown(SPACE_BAR)){
-        imgwidth -= imgwidth/2
-        
+        imgwidth -= imgwidth/2;
+        bgsound.play();
     }
 
 
