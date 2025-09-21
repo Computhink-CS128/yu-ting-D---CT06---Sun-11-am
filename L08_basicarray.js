@@ -66,6 +66,6 @@ function setup(){
     createCanvas(600,400);
     textSize(20);
     text("wsp gng",50,50);
-    text("m",50,100);
+    text("me is yu ting :3",50,100);
     text("hiwo",50,150);
 }
