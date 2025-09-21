@@ -64,7 +64,7 @@
 
 function setup(){
     createCanvas(600,400);
-    textSize(15);
+    textSize(25);
     text("hiwo",50,50);
     text("hiwo",50,100);
     text("hiwo",50,150);
