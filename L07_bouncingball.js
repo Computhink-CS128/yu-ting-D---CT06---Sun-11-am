@@ -102,7 +102,10 @@ function draw() {
             speedx *= 1.2;
             speedy *= 1.2;
 
-        } else if (keyCode === DOWN_ARROW)
+        } else if (keyCode === DOWN_ARROW){
+            speedx *= 1.2;
+            speedy *= 1.2;
+        }
     }
 
 
