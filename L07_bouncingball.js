@@ -100,7 +100,7 @@ function draw() {
     function keyPressed() {
         if (keyCode === UP_ARROW) {
             speedx *= 2;
-            speedy *= 1.2;
+            speedy *= 2;
 
         } else if (keyCode === DOWN_ARROW){
             speedx *= 0.8;
