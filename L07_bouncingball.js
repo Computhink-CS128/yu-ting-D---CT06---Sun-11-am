@@ -85,7 +85,7 @@
 let x = 300;
 let y = 200;
 let size = 40;
-let speedx = 5;
+let speedx = 0.1;
 let speedy = 5;
 let colour = "lime";
 
