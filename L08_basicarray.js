@@ -55,5 +55,5 @@ function draw() {
         fill(random(255),random(255),random(255))
     }
 
-    square()
+    square(x,y,size)
 }
