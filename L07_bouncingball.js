@@ -104,9 +104,9 @@ function draw() {
         }
     }
         function keyPressed() {
-        if (keyCode === DOWN_ARROW) {
-            speedx -= 1.2;
-            speedy -= 1.2;
+            if (keyCode === DOWN_ARROW) {
+                speedx -= 1.2;
+                speedy -= 1.2;
 
         }
     }
