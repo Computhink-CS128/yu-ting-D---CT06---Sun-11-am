@@ -50,7 +50,6 @@ function setup(){
 }
 
 function draw() {
-    fill(colour)
     background(255);
 
     if(x<=0 || x>=width-size){
