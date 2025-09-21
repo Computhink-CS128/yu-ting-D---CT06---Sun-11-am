@@ -48,8 +48,9 @@ let colour = "lime";
 function setup(){
     createCanvas(600,400);
 }
-fill(colour)
+
 function draw() {
+    
     background(255);
 
     if(x<=0 || x>=width-size){
