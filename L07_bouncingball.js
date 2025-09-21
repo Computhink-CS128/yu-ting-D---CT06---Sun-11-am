@@ -82,45 +82,45 @@
 // }  
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-let x = 300;
-let y = 200;
-let size = 40;
-let speedx = 10;
-let speedy = 10;
-let colour = "lime";
+// let x = 300;
+// let y = 200;
+// let size = 40;
+// let speedx = 10;
+// let speedy = 10;
+// let colour = "lime";
 
-function setup(){
-    createCanvas(600,400);
-    background(220)
-}
+// function setup(){
+//     createCanvas(600,400);
+//     background(220)
+// }
 
-function draw() {
-    background(220)
+// function draw() {
+//     background(220)
 
-    function keyPressed() {
-        if (keyCode === UP_ARROW) {
-            speedx *= 2;
-            speedy *= 2;
+//     function keyPressed() {
+//         if (keyCode === UP_ARROW) {
+//             speedx *= 2;
+//             speedy *= 2;
 
-        } else if (keyCode === DOWN_ARROW){
-            speedx *= 0.8;
-            speedy *= 0.8;
-        }
-    }
+//         } else if (keyCode === DOWN_ARROW){
+//             speedx *= 0.8;
+//             speedy *= 0.8;
+//         }
+//     }
 
 
-    if(x-size/2<=0 || x+size/2>=width){
-        speedx *=-1;
-        fill(random(255),random(255),random(255))
-    }
-    if(y-size/2<=0 || y+size/2>=height){
-        speedy *=-1;
-        fill(random(255),random(255),random(255))
-    }
+//     if(x-size/2<=0 || x+size/2>=width){
+//         speedx *=-1;
+//         fill(random(255),random(255),random(255))
+//     }
+//     if(y-size/2<=0 || y+size/2>=height){
+//         speedy *=-1;
+//         fill(random(255),random(255),random(255))
+//     }
 
-    x += speedx;
-    y += speedy;
+//     x += speedx;
+//     y += speedy;
     
-    noStroke();
-    circle( x, y, size);
-}
+//     noStroke();
+//     circle( x, y, size);
+// }
