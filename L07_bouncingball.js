@@ -97,7 +97,7 @@ function draw() {
     background(220)
 
     function keyPressed() {
-        if (keyCode === W) {
+        if (keyCode === UP_ARROW) {
             speedx *= 1.2;
             speedy *= 1.2;
 
