@@ -102,7 +102,7 @@ function draw() {
             speedx *= 1.2;
             speedy *= 1.2;
 
-        }
+        } elseif
     }
 
 
