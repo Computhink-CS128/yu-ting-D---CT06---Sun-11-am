@@ -68,6 +68,6 @@ function setup(){
     text("wsp gng",50,50);
     text("me is yu ting :3",50,100);
     text("11 (i think)",50,150);
-    text("I lov gambling-",50,200);
+    text("I lov playing gamez",50,200);
     
 }
