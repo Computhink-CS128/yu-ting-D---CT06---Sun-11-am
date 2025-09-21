@@ -67,5 +67,5 @@ function setup(){
     textSize(20);
     text("wsp gng",50,50);
     text("me is yu ting :3",50,100);
-    text("",50,150);
+    text("11 (i think)",50,150);
 }
