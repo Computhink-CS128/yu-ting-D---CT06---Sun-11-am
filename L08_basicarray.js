@@ -48,7 +48,7 @@ let colour = "lime";
 function setup(){
     createCanvas(600,400);
 }
-
+fill(colour)
 function draw() {
     background(255);
 
@@ -58,7 +58,6 @@ function draw() {
     }
     x += speedx;
 
-    fill(colour)
     noStroke();
     square(x,y,size);
 }
