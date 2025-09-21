@@ -103,13 +103,7 @@ function draw() {
 
         }
     }
-    function keyPressed() {
-        if (keyCode === DOWN_ARROW) {
-            speedx -= 1.2;
-            speedy -= 1.2;
 
-        }
-    }
 
     if(x-size/2<=0 || x+size/2>=width){
         speedx *=-1;
