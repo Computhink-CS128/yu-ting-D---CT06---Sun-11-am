@@ -62,5 +62,9 @@
 //     square(x,y,size);
 // }
 
+function setup(){
+    createCanvas(600,400);
+}
+
 textSize(15)
 text("hiwo",50,50)
