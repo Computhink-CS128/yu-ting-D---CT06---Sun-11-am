@@ -50,7 +50,7 @@ function setup(){
 }
 
 function draw() {
-    background(255);
+    background(colour);
 
     if(x<=0 || x>=width-size){
         speedx *=-1;
