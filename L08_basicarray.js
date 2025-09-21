@@ -49,11 +49,11 @@ function setup(){
 }
 
 function draw() {
+    square(x,y,size)
     background(255);
         if(x-size/2<=0 || x+size/2>=width){
         speedx *=-1;
         fill(random(255),random(255),random(255))
     }
 
-    square(x,y,size)
 }
