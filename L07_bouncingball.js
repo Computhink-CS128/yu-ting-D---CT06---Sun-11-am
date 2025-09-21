@@ -109,7 +109,7 @@ function draw() {
             speedy -= 1.2;
 
         }
-        }
+    }
 
     if(x-size/2<=0 || x+size/2>=width){
         speedx *=-1;
