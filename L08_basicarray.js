@@ -55,6 +55,6 @@ function draw() {
         speedx *=-1;
         fill(random(255),random(255),random(255))
     }
-noStroke();
+    noStroke();
     square(x,y,size);
 }
