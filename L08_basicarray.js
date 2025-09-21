@@ -62,4 +62,4 @@
 //     square(x,y,size);
 // }
 
-text
+textSize(1)
