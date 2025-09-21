@@ -85,8 +85,8 @@
 let x = 300;
 let y = 200;
 let size = 40;
-let speedx = 20;
-let speedy = 20;
+let speedx = 50;
+let speedy = 50;
 let colour = "lime";
 
 function setup(){
