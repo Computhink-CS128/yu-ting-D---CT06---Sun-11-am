@@ -58,7 +58,7 @@ function draw() {
     }
     x += speedx;
 
-    fill()
+    fill(colour)
     noStroke();
     square(x,y,size);
 }
