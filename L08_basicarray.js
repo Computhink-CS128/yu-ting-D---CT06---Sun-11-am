@@ -65,7 +65,7 @@
 function setup(){
     createCanvas(600,400);
     textSize(25);
-    text("hiwo",50,50);
-    text("hiwo",50,100);
+    text("wsp gng",50,50);
+    text("",50,100);
     text("hiwo",50,150);
 }
