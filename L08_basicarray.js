@@ -63,4 +63,4 @@
 // }
 
 textSize(15)
-text("hiwo",)
+text("hiwo",50,50)
