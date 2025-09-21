@@ -96,7 +96,11 @@ function setup(){
 function draw() {
     background(220)
 
-    function keyPressed() {}
+    function keyPressed() {
+        if (keyCode === UP_ARROW) {
+            
+        }
+    }
 
     if(x-size/2<=0 || x+size/2>=width){
         speedx *=-1;
