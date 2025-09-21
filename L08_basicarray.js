@@ -42,7 +42,7 @@ let x = 300;
 let y = 200;
 let size = 40;
 let speedx = 10;
-let speedy = 5;
+let speedy = 10;
 let colour = "grey";
 
 function setup(){
