@@ -51,7 +51,7 @@ function setup(){
 function draw() {
     background(255);
 
-    if(x<=0 || x+size/2>=width){
+    if(x<=0 || x>=width+size/2>=width){
         speedx *=-1;
         fill(random(255),random(255),random(255));
     }
