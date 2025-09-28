@@ -33,6 +33,6 @@ function draw(){
         text(storyText[i], width/2,ypos + i*50);
     }
 
-    if(ypos)
+    if(ypos < -())
     ypos -= 4;
 }
