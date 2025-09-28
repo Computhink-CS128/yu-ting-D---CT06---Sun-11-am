@@ -32,5 +32,6 @@ function draw(){
     for (let i=0; i<storyText.length; i++) {
         text(storyText[i], width/2,ypos + i*50);
     }
+    
     ypos -= 4;
 }
