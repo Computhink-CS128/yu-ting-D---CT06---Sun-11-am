@@ -28,6 +28,7 @@ function setup() {
     function preload(){
     bgsound = loadSound("assets/bossaNova.mp3"); //sound
   }
+  
 }
 
 function draw(){
