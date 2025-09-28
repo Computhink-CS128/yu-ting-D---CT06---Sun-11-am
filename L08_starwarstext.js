@@ -13,7 +13,7 @@ function draw(){
     background(0);
 
     for (let i=0; i<favFood.length; i++) {
-        text(st[i], width/2,ypos + i*50);
+        text(storyText[i], width/2,ypos + i*50);
     }
     ypos -= 4;
 }
