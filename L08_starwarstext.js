@@ -31,7 +31,6 @@ function setup() {
 }
 
 function draw(){
-    bgsound.play();
     background(0);
 
     for (let i=0; i<storyText.length; i++) {
