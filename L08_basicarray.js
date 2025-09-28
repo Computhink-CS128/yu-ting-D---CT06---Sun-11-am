@@ -84,5 +84,9 @@ function setup() {
 }
 
 function draw(){
-    back
+    background(220);
+
+    for (let i=0; i<favFood.length; i++) {
+        
+    }
 }
