@@ -101,7 +101,7 @@ function setup() {
     fill(255,255,0);
     textSize(24);
     textAlign(CENTER);
-    ypos = innerHeight;
+    ypos = height;
 }
 
 function draw(){
