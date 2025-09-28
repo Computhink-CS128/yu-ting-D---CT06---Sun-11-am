@@ -18,7 +18,8 @@ function draw(){
     // changes the value of posx
     posx = posx + Xspeed
 
-    if(posx<=0 || posx>=24*4){
-        speedx *=-1;
-    }
+    //go off the screen and come back the other side
+    if (posx>width){
+        posx = -50;
+            }
 }
