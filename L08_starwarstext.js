@@ -24,11 +24,10 @@ function setup() {
     textSize(24);
     textAlign(CENTER);
     ypos = height;
-    
+
     function preload(){
     bgsound = loadSound("assets/bossaNova.mp3"); //sound
-    pic = loadImage("assets/pico-a.png"); //image
-}
+  }
 }
 
 function draw(){
