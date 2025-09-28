@@ -29,7 +29,7 @@ function setup() {
 function draw(){
     background(0);
 
-    for (let i=0; i<favFood.length; i++) {
+    for (let i=0; i<storyText.length; i++) {
         text(storyText[i], width/2,ypos + i*50);
     }
     ypos -= 4;
