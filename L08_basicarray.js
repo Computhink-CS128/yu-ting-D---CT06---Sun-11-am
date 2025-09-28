@@ -87,6 +87,6 @@ function draw(){
     background(220);
 
     for (let i=0; i<favFood.length; i++) {
-        
+        text(())
     }
 }
