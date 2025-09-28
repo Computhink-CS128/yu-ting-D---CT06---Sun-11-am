@@ -38,5 +38,6 @@ function draw(){
     // }
 
     console.log(ypos)
+    
     ypos -= 4;
 }
