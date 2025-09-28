@@ -105,8 +105,8 @@ function setup() {
 
 function draw(){
     background(220);
-    
+
     for (let i=0; i<favFood.length; i++) {
-        text((i+1) + '.' + favFood[i], width/2, 80 + i*50);
+        text((i+1) + '.' + favFood[i], width/2,ypos);
     }
 }
