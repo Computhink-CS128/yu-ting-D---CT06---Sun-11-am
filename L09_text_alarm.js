@@ -17,7 +17,7 @@ function draw(){
     posx -= Xspeed
 
     if(x<=0){
-        Xspeed *=-1
+        Xspeed *=-1;
     }
 
 }
