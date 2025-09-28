@@ -37,6 +37,6 @@ function draw(){
     //     ypos = height
     // }
 
-    console.log
+    console.log(ypos)
     ypos -= 4;
 }
