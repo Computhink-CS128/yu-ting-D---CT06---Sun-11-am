@@ -33,8 +33,10 @@ function draw(){
         text(storyText[i], width/2,ypos + i*50);
     }
 
-    if(ypos < -(storyText.length *24 + (storyText.length-1)*24)){
-        ypos = height
-    }
+    // if(ypos < -(storyText.length *24 + (storyText.length-1)*24)){
+    //     ypos = height
+    // }
+
+    con
     ypos -= 4;
 }
