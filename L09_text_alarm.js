@@ -18,7 +18,7 @@ function draw(){
     // changes the value of posx
     posx = posx + Xspeed
 
-    if(posx<=0 || x>=width-size){
+    if(posx<=0 || posx>=width-size){
         speedx *=-1;
     }
 }
