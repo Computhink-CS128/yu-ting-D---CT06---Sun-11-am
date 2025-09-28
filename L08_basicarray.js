@@ -101,6 +101,7 @@ function setup() {
     fill(255,255,0);
     textSize(24);
     textAlign(CENTER);
+    ypos = hei
 }
 
 function draw(){
