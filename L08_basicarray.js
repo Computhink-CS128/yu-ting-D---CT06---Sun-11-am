@@ -83,4 +83,6 @@ function setup() {
     textAlign(LEFT);
 }
 
-f
+function draw(){
+    
+}
