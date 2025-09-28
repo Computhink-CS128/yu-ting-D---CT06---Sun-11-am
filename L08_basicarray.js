@@ -87,6 +87,6 @@ function draw(){
     background(220);
 
     for (let i=0; i<favFood.length; i++) {
-        text((i+1) + '.' + favFood[1],width/2,80+i8)
+        text((i+1) + '.' + favFood[1], width/2, 80+i*50)
     }
 }
