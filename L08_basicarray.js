@@ -98,7 +98,7 @@ let favFood = ['Pizza','Burger','Sushi',"Tacos","Pasta"];
 function setup() {
     createCanvas(600,600);
 
-    fill(0);
+    fill(255,2550);
     textSize(24);
     textAlign(CENTER);
 }
