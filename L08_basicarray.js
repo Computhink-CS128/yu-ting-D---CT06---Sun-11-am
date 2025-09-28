@@ -28,10 +28,10 @@
 //     // changes the value of posx
 //     posx = posx + Xspeed
 
-//     //go off the screen and come back the other side
-//     // if (posx>width){
-//         //posx = -50;
-//             // }
+    // go off the screen and come back the other side
+    // if (posx>width){
+    //     posx = -50;
+    //         }
 
 // }
 
