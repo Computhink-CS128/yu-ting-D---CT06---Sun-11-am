@@ -45,7 +45,5 @@ function draw(){
     console.log(ypos)
 
     ypos -= 4;
-}
-function mousePressed(){
-    bgsound.play();
+    
 }
