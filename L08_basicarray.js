@@ -3,10 +3,10 @@
 // let posx, posy;
 // //sound :DD
 // let pic;
-function preload(){
-    bgsound = loadSound("assets/bossaNova.mp3"); //sound
-    pic = loadImage("assets/pico-a.png"); //image
-}
+// function preload(){
+//     bgsound = loadSound("assets/bossaNova.mp3"); //sound
+//     pic = loadImage("assets/pico-a.png"); //image
+// }
 // //sound :DD
 
 // function setup() {
