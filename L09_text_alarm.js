@@ -1,4 +1,6 @@
 // write your codes here
+let Xspeed = 3;
+let posx, posy;
 function setup() {
     createCanvas(600 , 400);
     background(220);
