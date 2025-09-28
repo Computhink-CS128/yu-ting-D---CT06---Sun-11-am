@@ -110,5 +110,5 @@ function draw(){
     for (let i=0; i<favFood.length; i++) {
         text((i+1) + '.' + favFood[i], width/2,ypos + i*50);
     }
-    ypos -= 10000;
+    ypos -= 100;
 }
