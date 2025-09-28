@@ -80,11 +80,12 @@ function setup() {
 
     fill(0);
     textSize(24);
-    textAlign(LEFT);
+    textAlign(CENTER);
 }
 
 function draw(){
     background(220);
+    
 
     for (let i=0; i<favFood.length; i++) {
         text((i+1) + '.' + favFood[1], width/2, 80+i*50)
