@@ -46,7 +46,4 @@ function draw(){
 
     ypos -= 4;
     
-    function mousePressed(){
-    bgsound.play();
-}
 }
