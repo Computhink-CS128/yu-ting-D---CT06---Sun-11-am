@@ -76,6 +76,7 @@
 let favFood = ['Pizza','Burger','Sushi',"Tacos","Pizza"];
 
 function setup() {
-    createCanas(600)
+    createCanas(600,600);
+    
 }
 
