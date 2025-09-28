@@ -80,6 +80,7 @@ function setup() {
 
     fill(0);
     textSize(24);
-    textAlign
+    textAlign(LEFT);
 }
 
+f
