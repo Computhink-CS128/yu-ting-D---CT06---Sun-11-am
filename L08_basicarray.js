@@ -79,6 +79,6 @@ function setup() {
     createCanas(600,600);
 
     fill(0);
-    
+    textSize(24)
 }
 
