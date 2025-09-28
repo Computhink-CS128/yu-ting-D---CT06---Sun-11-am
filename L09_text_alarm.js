@@ -12,9 +12,7 @@ function draw(){
     textAlign(CENTER,CENTER)
     textSize(20); //size of text
     text("HIWO X33", posx, posy);
-    // image
-    image(pic,50,50,110,133); //draw pico 
-    // image
+ 
     // changes the value of posx
     posx = posx + Xspeed
 
