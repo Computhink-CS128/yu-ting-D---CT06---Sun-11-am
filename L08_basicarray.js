@@ -93,7 +93,7 @@
 // }
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 let ypos;
-let favFood = ['Pizza','Burger','Sushi',"Tacos","Pasta","wsp gng","hiwo"];
+let favFood = ['Pizza','Burger','Sushi',"Tacos","Pasta","wsp gng","hiwo","im bored"];
 
 function setup() {
     createCanvas(600,600);
