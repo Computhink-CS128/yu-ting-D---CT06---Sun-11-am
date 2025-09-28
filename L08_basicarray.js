@@ -73,21 +73,23 @@
 // }
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-let favFood = ['Pizza','Burger','Sushi',"Tacos","Pasta"];
+// let favFood = ['Pizza','Burger','Sushi',"Tacos","Pasta"];
 
-function setup() {
-    createCanvas(600,600);
+// function setup() {
+//     createCanvas(600,600);
 
-    fill(0);
-    textSize(24);
-    textAlign(CENTER);
-}
+//     fill(0);
+//     textSize(24);
+//     textAlign(CENTER);
+// }
 
-function draw(){
-    background(220);
-    text("my fav food is: ", width/2, 50);
+// function draw(){
+//     background(220);
+//     text("my fav food is: ", width/2, 50);
 
-    for (let i=0; i<favFood.length; i++) {
-        text((i+1) + '.' + favFood[i], width/2, 80 + i*50);
-    }
-}
+//     for (let i=0; i<favFood.length; i++) {
+//         text((i+1) + '.' + favFood[i], width/2, 80 + i*50);
+//     }
+// }
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
