@@ -128,7 +128,7 @@ function setup() {
 function draw(){
     background(0);
 
-    text(favFood[i], width/2,ypos + i*50);
-    
+    text(sillyText[i], width/2,ypos + i*50);
+
     ypos -= 4;
 }
