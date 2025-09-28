@@ -29,6 +29,7 @@ function setup() {
     bgsound = loadSound("assets/bossaNova.mp3"); //sound
   }
   
+  bgsound.loop();
 }
 
 function draw(){
