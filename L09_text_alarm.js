@@ -112,3 +112,4 @@ function changeVar() {
     function preload(){
     bgsound = loadSound("assets/bossaNova.mp3"); //sound
   }
+    bgsound.loop();
