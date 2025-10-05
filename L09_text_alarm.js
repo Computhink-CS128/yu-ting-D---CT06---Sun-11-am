@@ -80,6 +80,9 @@ let bg = 220;
 
 function setup() {
     createCanvas(600,400);
+        function preload(){
+            bgsound = loadSound("assets/bossaNova.mp3"); //sound
+  }
 }
 
 function draw() {
