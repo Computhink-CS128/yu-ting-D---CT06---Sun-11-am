@@ -76,14 +76,14 @@
 let interval;
 let countdown = 5;
 let change;
-let bg;
+let bg = 220;
 
 function setup() {
     createCanvas(600,400);
 }
 
 function draw() {
-    background(220);
+    background(bg);
     textAlign(CENTER,CENTER);
 
     textSize(24);
