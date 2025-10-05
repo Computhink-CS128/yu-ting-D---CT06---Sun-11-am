@@ -53,7 +53,7 @@ function setup() {
 function draw() {
     background(220);
 
-    text('CLivl')
+    text('Click me to start za timer')
 
     text(countdown,width/2,height/2);
 
