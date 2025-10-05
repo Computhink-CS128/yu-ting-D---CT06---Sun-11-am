@@ -76,13 +76,13 @@
 let interval;
 let countdown = 5;
 let change;
-let bg = 220
-let bg;
+let bg = 220;
+let bgSound;
 
 function setup() {
     createCanvas(600,400);
         function preload(){
-            bgsound = loadSound("assets/bossaNova.mp3"); //sound
+            bgSound = loadSound("assets/bossaNova.mp3"); //sound
   }
 }
 
