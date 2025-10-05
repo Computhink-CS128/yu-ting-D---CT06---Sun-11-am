@@ -38,5 +38,5 @@ function setup() {
 
 function draw() {
     background(220);
-    Text('enter text here')
+    Text('enter text here',50,height)
 }
