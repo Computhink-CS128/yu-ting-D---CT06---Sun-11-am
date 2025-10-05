@@ -82,7 +82,7 @@ let bgSound;
 function setup() {
     createCanvas(600,400);
         function preload(){
-            bgSound = loadSound("assets/bossaNova.mp3"); //sound
+            sound = loadSound("assets/bossaNova.mp3"); //sound
   }
 }
 
