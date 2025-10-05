@@ -78,8 +78,8 @@ let countdown = 5;
 let change;
 let bg = 220;
 let sound;
-        function preload(){
-            sound = loadSound("assets/bossaNova.mp3"); //sound
+function preload(){
+    sound = loadSound("assets/bossaNova.mp3"); //sound
   }
 
 function setup() {
