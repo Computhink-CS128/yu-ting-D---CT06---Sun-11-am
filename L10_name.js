@@ -16,6 +16,7 @@ function draw() {
     
 }
 
-function draw() {
+function countdown() {
     
+
 }
