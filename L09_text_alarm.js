@@ -117,6 +117,7 @@ function changeVar() {
 
 function  keyPressed() {
     if(keyCode == 32) {
-        clearInterval(change)
+        clearInterval(change);
+        sound,stop
     }
 }
