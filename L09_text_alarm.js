@@ -53,7 +53,7 @@ function setup() {
 function draw() {
     background(220);
 
-    textSize
+    textSize(24)
     text('Click to start za timer')
 
     text(countdown,width/2,height/2);
