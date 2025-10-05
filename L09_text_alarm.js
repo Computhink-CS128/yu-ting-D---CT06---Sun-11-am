@@ -54,7 +54,7 @@ function draw() {
     background(220);
 
     textSize(24);
-    text('Click to start za timer',width/2,height);
+    text('Click to start za timer',width/2,height-50);
 
     textSize(100);
     text(countdown,width/2,height/2);
