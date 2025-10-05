@@ -36,3 +36,6 @@ function setup() {
     inputText.size(150,50);
 }
 
+function draw() {
+    
+}
