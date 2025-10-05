@@ -53,7 +53,7 @@ function setup() {
 function draw() {
     background(220);
 
-    text
+    text('CLivl')
 
     text(countdown,width/2,height/2);
 
