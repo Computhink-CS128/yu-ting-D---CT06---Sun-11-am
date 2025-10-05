@@ -76,7 +76,8 @@
 let interval;
 let countdown = 5;
 let change;
-let bg = 220;
+let bg = 220
+let bg;
 
 function setup() {
     createCanvas(600,400);
