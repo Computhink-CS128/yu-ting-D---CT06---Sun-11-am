@@ -105,4 +105,6 @@ function countdownUpdate(){
     }
 }
 
-function changeVar()
+function changeVar() {
+    bg = colour 
+}
