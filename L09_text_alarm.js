@@ -109,3 +109,6 @@ function countdownUpdate(){
 function changeVar() {
     bg = color(random(255),random(255),random(255));
 }
+    function preload(){
+    bgsound = loadSound("assets/bossaNova.mp3"); //sound
+  }
