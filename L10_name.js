@@ -8,6 +8,7 @@ function setup() {
 function draw() {
     background(220)
 
-    let s = second()
+    let s = second();
+    textSize
     
 }
