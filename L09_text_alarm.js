@@ -92,13 +92,13 @@ function draw() {
 }
 
 function mousePressed() {
-    interval = setInterval(countdownUpdate, 1000)
+    interval = setInterval(countdownUpdate, 1000);
 }
 
 function countdownUpdate(){
     if(countdown>0) {
         countdown -= 1;
     } else {
-        clearInterval(interval)
+        clearInterval(interval);
     }
 }
