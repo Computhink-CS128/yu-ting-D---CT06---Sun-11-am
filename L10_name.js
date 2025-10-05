@@ -7,7 +7,7 @@ function setup() {
     interval = setInterval(countdown,1000);
 }
 function draw() {
-    background(220)
+    background(bgColor)
 
     let s = second();
     textSize(50);
