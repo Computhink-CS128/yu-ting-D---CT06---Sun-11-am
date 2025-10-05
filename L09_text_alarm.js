@@ -115,4 +115,8 @@ function changeVar() {
     sound.play();
 }
 
-  
+function  keyPressed() {
+    if(keyCode == 32) {
+        clear
+    }
+}
