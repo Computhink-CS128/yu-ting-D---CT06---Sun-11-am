@@ -53,6 +53,6 @@ function setup() {
 function draw() {
     background(220)
 
-    Text(countdown,width)
+    Text(countdown,width/2,height)
 
 }
