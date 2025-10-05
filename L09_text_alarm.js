@@ -103,6 +103,7 @@ function countdownUpdate(){
     } else {
         clearInterval(interval);
         change = setInterval(changeVar,500);
+        bgsound.loop();
     }
 }
 
