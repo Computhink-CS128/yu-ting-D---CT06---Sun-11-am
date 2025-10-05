@@ -17,6 +17,6 @@ function draw() {
 }
 
 function countdown() {
-    
+    bg
 
 }
