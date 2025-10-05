@@ -1,4 +1,4 @@
-// // write your codes here
+// write your codes here
 
 // let interval;
 // let bgColor = 220;
