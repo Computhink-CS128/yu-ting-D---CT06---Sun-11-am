@@ -61,5 +61,5 @@ function draw() {
 }
 
 function mousePressed() {
-    
+    interval = setInterval
 }
