@@ -15,7 +15,6 @@ function draw() {
     let s = 59-second();
     textSize(50);
     text(s,width/2,height/2);
-
     
 }
 
