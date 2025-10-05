@@ -32,5 +32,7 @@ function draw() {
 
     let h = hour();
     let m = minute();
-    let s = hour();
+    let s = second();
+
+    
 }
