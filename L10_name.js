@@ -10,6 +10,6 @@ function draw() {
 
     let s = second();
     textSize(50);
-    text(s,width)
+    text(s,width/2,)
     
 }
