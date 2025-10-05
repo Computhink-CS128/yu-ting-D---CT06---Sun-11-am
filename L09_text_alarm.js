@@ -75,6 +75,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 let interval;
 let countdown = 5;
+let bg;
 
 function setup() {
     createCanvas(600,400);
@@ -103,3 +104,5 @@ function countdownUpdate(){
         change = setInterval(changeVar,500);
     }
 }
+
+function changeVar()
