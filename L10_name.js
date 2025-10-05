@@ -28,5 +28,5 @@ let imputText;
 let userText;
 
 function setup() {
-    
+    createCa
 }
