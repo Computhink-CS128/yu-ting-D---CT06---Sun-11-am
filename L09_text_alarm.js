@@ -51,6 +51,7 @@ function setup() {
 }
 
 function draw() {
-    baclgr
+    background(220)
+    
 
 }
