@@ -107,12 +107,12 @@ function countdownUpdate(){
     } else {
         clearInterval(interval);
         change = setInterval(changeVar,500);
-        sound.play();
     }
 }
 
 function changeVar() {
     bg = color(random(255),random(255),random(255));
+        sound.play();
 }
 
   
