@@ -106,5 +106,5 @@ function countdownUpdate(){
 }
 
 function changeVar() {
-    bg = colour(Random())
+    bg = colour(Random(255),)
 }
