@@ -53,8 +53,8 @@ function setup() {
 function draw() {
     background(220);
 
-    te
+    text
 
-    Text(countdown,width/2,height/2);
+    text(countdown,width/2,height/2);
 
 }
