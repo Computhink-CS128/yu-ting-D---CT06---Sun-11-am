@@ -4,7 +4,7 @@
 function setup() {
     createCanvas(400,400);
     textAlign(CENTER,CENTER);
-    interval = setInterval(countdown,1000)
+    interval = setInterval(countdown,1000);
 }
 function draw() {
     background(220)
