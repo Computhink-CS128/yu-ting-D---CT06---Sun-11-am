@@ -15,3 +15,6 @@ function draw() {
 
     
 }
+
+function draw() {}
+]
