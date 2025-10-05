@@ -17,6 +17,6 @@ function draw() {
 }
 
 function countdown() {
-    bgColor= color(random(255),)
+    bgColor= color(random(255),random(255),random(255));
 
 }
