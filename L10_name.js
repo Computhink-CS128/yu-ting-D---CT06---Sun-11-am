@@ -1,6 +1,7 @@
 // write your codes here
 
-let in
+let interval;
+let bgColor
 
 function setup() {
     createCanvas(400,400);
