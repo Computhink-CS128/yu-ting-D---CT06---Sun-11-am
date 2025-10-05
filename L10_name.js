@@ -38,8 +38,8 @@ function setup() {
 
 function draw() {
     background(220);
-    Text('enter text here',50,height-100)
-    Text(userText,width/2,height/2)
+    Text('enter text here',50,height-100);
+    Text(userText,width/2,height/2);
 }
 
 function update() {
