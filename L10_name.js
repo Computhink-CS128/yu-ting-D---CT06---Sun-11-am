@@ -33,5 +33,6 @@ function setup() {
     inputText = createInput();
     inputText.position(width/2,height-100);
     inputText.input(updateText);
-    inputText.size(150,50)
+    inputText.size(150,50);
 }
+
