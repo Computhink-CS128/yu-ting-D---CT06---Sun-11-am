@@ -66,6 +66,7 @@ function mousePressed() {
 
 function countdownUpdate(){
     if(countdown>0) {
+        countdown -= 1
         
     }
 }
