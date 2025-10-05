@@ -65,5 +65,7 @@ function mousePressed() {
 }
 
 function countdownUpdate(){
-    id
+    if(countdown>0) {
+        
+    }
 }
