@@ -78,12 +78,12 @@ let countdown = 5;
 let change;
 let bg = 220;
 let sound;
-
-function setup() {
-    createCanvas(600,400);
         function preload(){
             sound = loadSound("assets/bossaNova.mp3"); //sound
   }
+
+function setup() {
+    createCanvas(600,400);
 }
 
 function draw() {
