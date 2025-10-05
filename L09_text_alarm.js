@@ -31,4 +31,6 @@ function draw() {
     background(220);
 
     let h = hour();
+    let m = minute();
+    let s = hour();
 }
