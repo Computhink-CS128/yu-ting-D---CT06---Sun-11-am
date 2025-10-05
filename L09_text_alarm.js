@@ -107,5 +107,5 @@ function countdownUpdate(){
 }
 
 function changeVar() {
-    bg = colour(random(255),random(255),random(255));
+    bg = color(random(255),random(255),random(255));
 }
