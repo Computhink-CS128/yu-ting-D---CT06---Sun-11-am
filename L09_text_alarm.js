@@ -29,7 +29,7 @@ function setup() {
 
 function draw() {
     background(220);
-    text
+    textAlign()
 
     let h = hour();
     let m = minute();
