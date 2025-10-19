@@ -52,7 +52,7 @@ function draw(){
 
     textAlign(CENTER,CENTER);
     textSize(30);
-    textBox(displayText,width/2,height/2);
+    text(displayText,width/2,height/2);
 }
 
 function display(){
