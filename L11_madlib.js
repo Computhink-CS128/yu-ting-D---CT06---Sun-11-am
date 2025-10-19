@@ -85,8 +85,7 @@ function draw(){
     for(let i=0; i<arr.length;i++){    
         text(arr[i],50,50+i*50+15);
     }
-       
-    textSize(20);
+
     for(let i=0; i<arr.length;i++){    
         text(arr[i],50,50+i*50+15);
     }
