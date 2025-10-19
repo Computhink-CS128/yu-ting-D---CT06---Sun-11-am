@@ -64,6 +64,7 @@ let textBox1,textBox2,textBox3,textBox4,textBox5;
 
 function setup(){
 
+    textBox1 = create
 }
 function draw(){
 
