@@ -1,6 +1,7 @@
 // write your codes here
 
-let
+let textBox;
+textColour
 
 function setup(){
     textAlign(CENTER,CENTER)
