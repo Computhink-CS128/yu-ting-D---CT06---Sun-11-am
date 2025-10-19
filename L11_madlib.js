@@ -107,7 +107,7 @@ function display(){
     displpayText1 = "Noun: " + textBox1.value();
     arr2.push(displayText1);
 
-    displpayText2 = "Noun: " + textBox2.value();
+    displpayText2 = "Verb: " + textBox2.value();
     arr2.push(displayText2);
 
     displpayText3 = "Noun: " + textBox3.value();
