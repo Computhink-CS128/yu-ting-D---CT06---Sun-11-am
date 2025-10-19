@@ -69,4 +69,5 @@ function setup(){
 }
 function draw(){
 
+    backgroud
 }
