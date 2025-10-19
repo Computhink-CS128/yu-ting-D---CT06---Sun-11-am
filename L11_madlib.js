@@ -85,3 +85,7 @@ function draw(){
         text(arr[i],50,50+i*50+15);
         }
 }
+
+function display(){
+    
+}
