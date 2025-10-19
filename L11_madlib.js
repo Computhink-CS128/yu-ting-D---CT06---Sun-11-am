@@ -61,7 +61,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 let textBox1,textBox2,textBox3,textBox4,textBox5;
-let arr = ["enter noun","enter verb","enter",]
+let arr = ["enter noun","enter verb","enter adjective",]
 
 function setup(){
 
