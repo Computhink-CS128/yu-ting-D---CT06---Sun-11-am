@@ -76,10 +76,10 @@ function setup(){
     textBox2 = createInput();
     textBox2.position(width/2-textBox2.width/2,50);
 
-    textBox2 = createInput();
-    textBox2.position(width/2-textBox2.width/2,50);
+    textBox3 = createInput();
+    textBox3.position(width/2-textBox3.width/2,50);
 
-    textBox2 = createInput();
+    textBox3 = createInput();
     textBox2.position(width/2-textBox2.width/2,50);
 
     textBox2 = createInput();
