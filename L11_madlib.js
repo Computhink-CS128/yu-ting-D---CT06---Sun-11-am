@@ -50,7 +50,7 @@ function setup(){
 function draw(){
     background(220);
 
-    textAlign
+    textAlign(CustomElementRegistry,CERNTER)
     textBox(displayText,width/2,height/2);
 }
 
