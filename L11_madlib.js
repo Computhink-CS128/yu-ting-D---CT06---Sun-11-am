@@ -71,7 +71,7 @@ function setup(){
     textBox1 = createInput();
     textBox1.position(width/2-textBox1.width/2,50);
 
-    button= createButton('Generate')
+    button= createButton('Generate Story')
     button.postition();
 }
 function draw(){
