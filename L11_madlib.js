@@ -5,7 +5,7 @@ let textColourPicker;
 
 function setup(){
     textAlign(CENTER,CENTER)
-    createCanvas(600,400);
+    createCanvas(400,400);
 }
 
 function draw(){
