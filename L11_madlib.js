@@ -110,8 +110,8 @@ function display(){
     displpayText2 = "Noun: " + textBox2.value();
     arr2.push(displayText2);
 
-    displpayText31 = "Noun: " + textBox1.value();
-    arr2.push(displayText1);
+    displpayText3 = "Noun: " + textBox3.value();
+    arr2.push(displayText3);
 
     displpayText1 = "Noun: " + textBox1.value();
     arr2.push(displayText1);
