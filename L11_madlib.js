@@ -16,8 +16,10 @@ function setup(){
 function draw(){
     background(220);
 
+    
+
 }
 
 function displayText(){
-    display = this.value
+    display = this.value();
 }
