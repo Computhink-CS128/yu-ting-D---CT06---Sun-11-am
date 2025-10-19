@@ -50,6 +50,7 @@ function setup(){
 function draw(){
     background(220);
 
+    textBox(displa)
 }
 
 function display(){
