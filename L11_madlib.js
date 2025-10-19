@@ -92,6 +92,6 @@ function draw(){
 }
 
 function display(){
-    displpayText1 = textBox1.value();
+    displpayText1 = "Noun:" + textBox1.value();
     arr2.push(displayText1);
 }
