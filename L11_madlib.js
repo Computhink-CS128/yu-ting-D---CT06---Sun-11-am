@@ -18,4 +18,6 @@ function draw(){
 
 }
 
-fun
+function displayText(){
+    
+}
