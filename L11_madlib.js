@@ -1,7 +1,7 @@
 // write your codes here
 
 let textBox;
-textColour
+let textColourPicker
 
 function setup(){
     textAlign(CENTER,CENTER)
