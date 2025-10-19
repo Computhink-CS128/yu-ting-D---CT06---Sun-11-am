@@ -13,6 +13,9 @@ function setup(){
     textBox.position(50,50);
     textBox.size(150,30);
     textBox.input(displayText);
+
+    colorPicker= createColorPicker('orange');
+    colorPicker.position(width/2-50,height-30);
 }
 
 function draw(){
