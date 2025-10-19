@@ -65,7 +65,7 @@ let textBox1,textBox2,textBox3,textBox4,textBox5;
 function setup(){
 
     textBox1 = createInput();
-    textBox1.position(width)
+    textBox1.position(width/2-textBox1)
 }
 function draw(){
 
