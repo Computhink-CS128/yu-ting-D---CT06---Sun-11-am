@@ -40,3 +40,7 @@ function setup(){
     textBox = createInput();
     textBox.position(100,50);
 }
+
+function draw(){
+    
+}
