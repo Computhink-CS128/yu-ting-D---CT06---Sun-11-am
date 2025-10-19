@@ -43,6 +43,7 @@ function setup(){
 
     button= createButton('bite o 87');
     button.position(textBox.x+textBox.width+30,50);
+    button.mousePressed
 }
 
 function draw(){
