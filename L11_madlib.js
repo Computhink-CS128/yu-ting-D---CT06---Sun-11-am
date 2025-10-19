@@ -1,7 +1,7 @@
 // write your codes here
 
 let textBox;
-let textColourPicker;//hi xd/
+let textColourPicker;
 
 function setup(){
     textAlign(CENTER,CENTER)
