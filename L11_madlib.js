@@ -66,6 +66,5 @@ function setup(){
 
 }
 function draw(){
-    
+
 }
-]
