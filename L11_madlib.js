@@ -41,7 +41,7 @@ function setup(){
     textBox = createInput();
     textBox.position(100,50);
 
-    button= createButton;
+    button= createButton('bite o 87');
 }
 
 function draw(){
