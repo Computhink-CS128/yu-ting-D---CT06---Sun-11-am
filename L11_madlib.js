@@ -18,7 +18,7 @@ function draw(){
 
     textAlign(LEFT);
     textSize(24);
-    textBox(display,50,height/2);
+    text(display,50,height/2);
 
 }
 
