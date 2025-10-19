@@ -113,7 +113,7 @@ function display(){
     displpayText3 = "Ajective: " + textBox3.value();
     arr2.push(displayText3);
 
-    displpayText4 = "Noun: " + textBox4.value();
+    displpayText4 = "Adverb: " + textBox4.value();
     arr2.push(displayText4);
 
     displpayText5 = "Noun: " + textBox5.value();
