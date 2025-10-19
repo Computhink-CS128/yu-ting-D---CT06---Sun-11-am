@@ -32,29 +32,30 @@
 // }
 //////////////////////////////////////////////////////////////////////////////////////////
 
-let textBox;
-let button;
-let displayText = "random text here"
+// let textBox;
+// let button;
+// let displayText = "random text here"
 
-function setup(){
-    createCanvas(400,400);
+// function setup(){
+//     createCanvas(400,400);
 
-    textBox = createInput();
-    textBox.position(100,50);
+//     textBox = createInput();
+//     textBox.position(100,50);
 
-    button= createButton('bite o 87');
-    button.position(textBox.x+textBox.width+30,50);
-    button.mousePressed(display);
-}
+//     button= createButton('bite o 87');
+//     button.position(textBox.x+textBox.width+30,50);
+//     button.mousePressed(display);
+// }
 
-function draw(){
-    background(220);
+// function draw(){
+//     background(220);
 
-    textAlign(CENTER,CENTER);
-    textSize(30);
-    text(displayText,width/2,height/2);
-}
+//     textAlign(CENTER,CENTER);
+//     textSize(30);
+//     text(displayText,width/2,height/2);
+// }
 
-function display(){
-    displayText= textBox.value();
-}
+// function display(){
+//     displayText= textBox.value();
+// }
+////////////////////////////////////////////////////////////////////////////////
