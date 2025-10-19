@@ -83,7 +83,7 @@ function setup(){
     textBox4.position(width/2-textBox4.width/2,200);
 
     textBox5 = createInput();
-    textBox5.position(width/2-textBox5.width/2,50);
+    textBox5.position(width/2-textBox5.width/2,250);
 
     button= createButton('Generate Story');
     button.position(width/2-button.width/2,300);
