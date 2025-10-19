@@ -64,6 +64,7 @@ let textBox1,textBox2,textBox3,textBox4,textBox5;
 
 function setup(){
 
+    createCanvas
     textBox1 = createInput();
     textBox1.position(width/2-textBox1.width/2,50);
 }
