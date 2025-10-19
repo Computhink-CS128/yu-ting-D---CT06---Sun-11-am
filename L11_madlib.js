@@ -87,5 +87,5 @@ function draw(){
 }
 
 function display(){
-    displpayText1 = textBox1
+    displpayText1 = textBox1.value();
 }
