@@ -74,13 +74,13 @@ function setup(){
     textBox1.position(width/2-textBox1.width/2,50);
 
     textBox2 = createInput();
-    textBox2.position(width/2-textBox2.width/2,50);
+    textBox2.position(width/2-textBox2.width/2,100);
 
     textBox3 = createInput();
-    textBox3.position(width/2-textBox3.width/2,50);
+    textBox3.position(width/2-textBox3.width/2,150);
 
     textBox4 = createInput();
-    textBox4.position(width/2-textBox4.width/2,50);
+    textBox4.position(width/2-textBox4.width/2,200);
 
     textBox5 = createInput();
     textBox5.position(width/2-textBox5.width/2,50);
