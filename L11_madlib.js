@@ -9,7 +9,7 @@ function setup(){
     textBox = createInput();
     textBox.position(50,50);
     textBox.size(150,30)
-    textBox.createInput
+    textBox.input(dis)
 }
 
 function draw(){
