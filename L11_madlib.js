@@ -73,6 +73,9 @@ function setup(){
     textBox1 = createInput();
     textBox1.position(width/2-textBox1.width/2,50);
 
+    textBox1 = createInput();
+    textBox1.position(width/2-textBox1.width/2,50);
+
     button= createButton('Generate Story');
     button.position(width/2-button.width/2,300);
     button.mousePressed(display);
