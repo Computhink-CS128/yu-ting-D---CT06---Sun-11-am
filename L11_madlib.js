@@ -107,10 +107,10 @@ function display(){
     displpayText1 = "Noun: " + textBox1.value();
     arr2.push(displayText1);
 
-    displpayText1 = "Noun: " + textBox1.value();
-    arr2.push(displayText1);
+    displpayText2 = "Noun: " + textBox2.value();
+    arr2.push(displayText2);
 
-    displpayText1 = "Noun: " + textBox1.value();
+    displpayText31 = "Noun: " + textBox1.value();
     arr2.push(displayText1);
 
     displpayText1 = "Noun: " + textBox1.value();
