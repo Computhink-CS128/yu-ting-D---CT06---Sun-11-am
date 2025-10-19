@@ -73,5 +73,5 @@ function draw(){
     background(220)
 
 
-    textBox1()
+    text()
 }
