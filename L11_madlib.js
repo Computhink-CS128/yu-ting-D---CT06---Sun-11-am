@@ -88,5 +88,5 @@ function draw(){
 
 function display(){
     displpayText1 = textBox1.value();
-    displ
+    
 }
