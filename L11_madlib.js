@@ -33,6 +33,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////
 
 let textBox;
+let button;
 
 function setup(){
     createCanvas(400,400);
@@ -40,7 +41,7 @@ function setup(){
     textBox = createInput();
     textBox.position(100,50);
 
-    
+
 }
 
 function draw(){
