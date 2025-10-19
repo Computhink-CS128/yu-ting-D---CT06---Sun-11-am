@@ -113,9 +113,9 @@ function display(){
     displpayText3 = "Noun: " + textBox3.value();
     arr2.push(displayText3);
 
-    displpayText1 = "Noun: " + textBox1.value();
-    arr2.push(displayText1);
+    displpayText4 = "Noun: " + textBox4.value();
+    arr2.push(displayText4);
 
-    displpayText1 = "Noun: " + textBox1.value();
-    arr2.push(displayText1);
+    displpayText1 = "Noun: " + textBox5.value();
+    arr2.push(displayText5);
 }
