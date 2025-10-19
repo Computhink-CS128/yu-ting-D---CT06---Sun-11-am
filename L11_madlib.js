@@ -1,7 +1,7 @@
 // write your codes here
 
 let textBox;
-let display
+let display;
 let textColourPicker;
 
 function setup(){
@@ -9,7 +9,7 @@ function setup(){
 
     textBox = createInput();
     textBox.position(50,50);
-    textBox.size(150,30)
+    textBox.size(150,30);
     textBox.input(displayText);
 }
 
