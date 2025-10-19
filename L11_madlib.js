@@ -51,7 +51,7 @@ function draw(){
     background(220);
 
     textAlign(CENTER,CENTER);
-    textSize()
+    textSize(30);
     textBox(displayText,width/2,height/2);
 }
 
