@@ -5,9 +5,11 @@ let textColourPicker;
 
 function setup(){
     createCanvas(400,400);
+
+    textBox = create
 }
 
 function draw(){
     background(220);
-    
+
 }
