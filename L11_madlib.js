@@ -34,7 +34,7 @@
 
 let textBox;
 let button;
-let displayText = ""
+let displayText = "fnaf ref here"
 
 function setup(){
     createCanvas(400,400);
