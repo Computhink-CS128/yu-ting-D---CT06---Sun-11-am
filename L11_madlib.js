@@ -1,7 +1,7 @@
 // write your codes here
 
 let textBox;
-let disspl
+let display
 let textColourPicker;
 
 function setup(){
@@ -17,3 +17,5 @@ function draw(){
     background(220);
 
 }
+
+fun
