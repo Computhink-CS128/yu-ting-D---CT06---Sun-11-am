@@ -8,7 +8,7 @@ function setup(){
 
     textBox = createInput();
     textBox.position(50,50);
-    textBox.size
+    textBox.size(150,)
 }
 
 function draw(){
