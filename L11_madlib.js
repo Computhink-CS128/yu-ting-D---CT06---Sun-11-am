@@ -75,6 +75,7 @@ function setup(){
     button.postition(width/2-button.width/2,300);
     button.mousePressed(display);
 }
+
 function draw(){
     background(220);
 
@@ -82,6 +83,4 @@ function draw(){
     for(let i=0; i<arr.length;i++){    
         text(arr[i],50,50+i*50+15);
         }
-
-
 }
