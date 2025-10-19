@@ -1,7 +1,6 @@
 // write your codes here
 
 let colorPicker;
-let colorPickerText;
 let textBox;
 let display;
 let textColourPicker;
