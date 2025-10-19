@@ -71,8 +71,11 @@ function setup(){
     textBox1.position(width/2-textBox1.width/2,50);
 }
 function draw(){
-    background(220)
+    background(220);
+
+    for(let i=0; i<arr.length;i++){    
+        text(arr[i],50,50+i+50);
+        }
 
 
-    text()
 }
