@@ -110,12 +110,15 @@ function display(){
 
     displpayText2 = "Verb: " + textBox2.value();
     arr2.push(displayText2);
+    console.log(displayText1)
 
     displpayText3 = "Adjective: " + textBox3.value();
     arr2.push(displayText3);
+    console.log(displayText1)
 
     displpayText4 = "Adverb: " + textBox4.value();
     arr2.push(displayText4);
+    console.log(displayText1)
 
     displpayText5 = "place: " + textBox5.value();
     arr2.push(displayText5);
