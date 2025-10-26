@@ -122,4 +122,5 @@ function display(){
 
     displpayText5 = "place: " + textBox5.value();
     arr2.push(displayText5);
+    console.log(displayText5)
 }
