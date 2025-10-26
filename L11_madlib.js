@@ -106,7 +106,7 @@ function draw(){
 function display(){
     displpayText1 = "Noun: " + textBox1.value();
     arr2.push(displayText1);
-    console.log
+    console.log(displayText1)
 
     displpayText2 = "Verb: " + textBox2.value();
     arr2.push(displayText2);
