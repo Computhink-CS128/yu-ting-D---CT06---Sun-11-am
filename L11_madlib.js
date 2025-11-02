@@ -266,13 +266,13 @@ function display() {
     displayText2 = textBox2.value(); 
     arr2.push(displayText2); 
 
-    displayText3 = "Adjective: " + textBox3.value(); 
+    displayText3 = textBox3.value(); 
     arr2.push(displayText3); 
 
-    displayText4 = "Adverb: " + textBox4.value(); 
+    displayText4 = textBox4.value(); 
     arr2.push(displayText4); 
 
-    displayText5 = "Place: " + textBox5.value(); 
+    displayText5 = textBox5.value(); 
     arr2.push(displayText5); 
 
 
