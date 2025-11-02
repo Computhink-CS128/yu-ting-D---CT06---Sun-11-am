@@ -218,8 +218,6 @@ function setup() {
 
     let template = random(storyTemplates)
 
-c
-
     textBox1 = createInput(); 
     textBox1.position(width/2-textBox1.width/2, 50); 
     textBox1.size(150, 30); 
