@@ -106,15 +106,15 @@ function draw(){
 function display(){
     displpayText1 = "Noun: " + textBox1.value();
     arr2.push(displayText1);
-    console.log(displayText1)
+    // console.log(displayText1)
 
     displpayText2 = "Verb: " + textBox2.value();
     arr2.push(displayText2);
-    console.log(displayText2)
+    // console.log(displayText2)
 
     displpayText3 = "Adjective: " + textBox3.value();
     arr2.push(displayText3);
-    console.log(displayText3)
+    // console.log(displayText3)
 
     displpayText4 = "Adverb: " + textBox4.value();
     arr2.push(displayText4);
