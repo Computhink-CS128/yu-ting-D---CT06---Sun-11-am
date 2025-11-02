@@ -60,67 +60,67 @@
 // }
 ////////////////////////////////////////////////////////////////////////////////
 
-let textBox1,textBox2,textBox3,textBox4,textBox5;
-let arr = ["enter noun:","enter verb:","enter adjective:","enter adverb:","enter place:"];
-let button;
-let displayText1,displayText2,displayText3,displayText4,displayText5;
-let arr2 = [];
+// let textBox1,textBox2,textBox3,textBox4,textBox5;
+// let arr = ["enter noun:","enter verb:","enter adjective:","enter adverb:","enter place:"];
+// let button;
+// let displayText1,displayText2,displayText3,displayText4,displayText5;
+// let arr2 = [];
 
-function setup(){
+// function setup(){
 
-    createCanvas(600,600)
+//     createCanvas(600,600)
 
-    textBox1 = createInput();
-    textBox1.position(width/2-textBox1.width/2,50);
+//     textBox1 = createInput();
+//     textBox1.position(width/2-textBox1.width/2,50);
 
-    textBox2 = createInput();
-    textBox2.position(width/2-textBox2.width/2,100);
+//     textBox2 = createInput();
+//     textBox2.position(width/2-textBox2.width/2,100);
 
-    textBox3 = createInput();
-    textBox3.position(width/2-textBox3.width/2,150);
+//     textBox3 = createInput();
+//     textBox3.position(width/2-textBox3.width/2,150);
 
-    textBox4 = createInput();
-    textBox4.position(width/2-textBox4.width/2,200);
+//     textBox4 = createInput();
+//     textBox4.position(width/2-textBox4.width/2,200);
 
-    textBox5 = createInput();
-    textBox5.position(width/2-textBox5.width/2,250);
+//     textBox5 = createInput();
+//     textBox5.position(width/2-textBox5.width/2,250);
 
-    button= createButton('Generate Story');
-    button.position(width/2-button.width/2,300);
-    button.mousePressed(display);
-}
+//     button= createButton('Generate Story');
+//     button.position(width/2-button.width/2,300);
+//     button.mousePressed(display);
+// }
 
-function draw(){
-    background(220);
+// function draw(){
+//     background(220);
 
-    textSize(15);
-    for(let i=0; i<arr.length;i++){    
-        text(arr[i],50,50+i*50+15);
-    }
+//     textSize(15);
+//     for(let i=0; i<arr.length;i++){    
+//         text(arr[i],50,50+i*50+15);
+//     }
 
-    for(let i=0; i<arr2.length;i++){    
-        text(arr2[i],50,350+i*50);
-    }
-}
+//     for(let i=0; i<arr2.length;i++){    
+//         text(arr2[i],50,350+i*50);
+//     }
+// }
 
-function display(){
-    displpayText1 = "Noun: " + textBox1.value();
-    arr2.push(displayText1);
-    // console.log(displayText1)
+// function display(){
+//     displpayText1 = "Noun: " + textBox1.value();
+//     arr2.push(displayText1);
+//     // console.log(displayText1)
 
-    displpayText2 = "Verb: " + textBox2.value();
-    arr2.push(displayText2);
-    // console.log(displayText2)
+//     displpayText2 = "Verb: " + textBox2.value();
+//     arr2.push(displayText2);
+//     // console.log(displayText2)
 
-    displpayText3 = "Adjective: " + textBox3.value();
-    arr2.push(displayText3);
-    // console.log(displayText3)
+//     displpayText3 = "Adjective: " + textBox3.value();
+//     arr2.push(displayText3);
+//     // console.log(displayText3)
 
-    displpayText4 = "Adverb: " + textBox4.value();
-    arr2.push(displayText4);
-    // console.log(displayText4)
+//     displpayText4 = "Adverb: " + textBox4.value();
+//     arr2.push(displayText4);
+//     // console.log(displayText4)
 
-    displpayText5 = "place: " + textBox5.value();
-    arr2.push(displayText5);
-    // console.log(displayText5)
-}
+//     displpayText5 = "place: " + textBox5.value();
+//     arr2.push(displayText5);
+//     // console.log(displayText5)
+// }
