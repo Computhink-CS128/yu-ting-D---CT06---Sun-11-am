@@ -208,6 +208,11 @@ let displayText1, displayText2, displayText3, displayText4, displayText5;
 let arr2 = []; 
 
 
+let storyTemplates = [
+        "The {adj} {noun} decided to {verb} {adv} at the {place}.",
+        "One day, a {adj} {noun} wanted to {verb} {adv} in {place}.",
+        "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}?"
+    ];
 
 function setup() {
     createCanvas(600, 600); 
