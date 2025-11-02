@@ -206,9 +206,7 @@ let arr = ["Enter a noun:", "Enter a verb:", "Enter an adjective:", "Enter an ad
 let button; 
 let displayText1, displayText2, displayText3, displayText4, displayText5; 
 let arr2 = []; 
-let storyText =""
-
-
+let storyText = "";
 let storyTemplates = [
         "The {adj} {noun} decided to {verb} {adv} at the {place}.",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}.",
