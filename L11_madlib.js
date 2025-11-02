@@ -260,10 +260,10 @@ function draw() {
 }
 
 function display() {
-    displayText1 = "Noun: " + textBox1.value(); 
+    displayText1 = textBox1.value(); 
     arr2.push(displayText1); 
 
-    displayText2 = "Verb: " + textBox2.value(); 
+    displayText2 = textBox2.value(); 
     arr2.push(displayText2); 
 
     displayText3 = "Adjective: " + textBox3.value(); 
