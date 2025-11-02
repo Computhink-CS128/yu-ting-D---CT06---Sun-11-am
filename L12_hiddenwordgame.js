@@ -5,6 +5,7 @@ let words = [
     "football", "bathroom", "sandwich", "airplane", "umbrella", "medicine", "chocolate", "software", 
     "pineapple", "furniture", "telephone", "lighthouse"];
 let attempts =0;
+let randWord =""
 
     function setup() {
         createCanvas(600,400);
