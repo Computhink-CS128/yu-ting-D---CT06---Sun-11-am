@@ -253,6 +253,8 @@ function draw() {
     for(let i=0; i<arr2.length; i++) {
         text(arr2[i], 50, 350 + i*50); 
     }
+
+    text
     
     
 }
