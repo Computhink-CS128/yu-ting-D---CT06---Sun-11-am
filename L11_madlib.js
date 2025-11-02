@@ -249,4 +249,4 @@ function draw() {
     
 }
 
-st
+storyTemplate
