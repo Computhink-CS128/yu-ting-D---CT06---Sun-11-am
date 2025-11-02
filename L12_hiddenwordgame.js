@@ -11,11 +11,13 @@ let button;
 
     function setup() {
         createCanvas(600,400);
+
+
     }
 
     function draw(){
         textAlign(CENTER,CENTER)
         text("Guess za word :D",width/2,50);
-        text("attempz: " +attempts);
+        text("attempz: " +attempts,);
         text("hint: "+ randWord)
     }
