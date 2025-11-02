@@ -243,9 +243,11 @@ function setup() {
     button.mousePressed(display); 
 
     storyText = template.replace("{noun}",displayText1)
+                        .replace("{noun}",displayText2)
                         .replace("{noun}",displayText1)
                         .replace("{noun}",displayText1)
-                        
+                        .replace("{noun}",displayText1)
+
 }
 
 function draw() {
