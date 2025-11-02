@@ -12,4 +12,5 @@ let attempts =0;
 
     function draw(){
         textAlign(CENTER,CENTER)
+        textBox1("")
     }
