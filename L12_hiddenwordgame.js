@@ -31,6 +31,5 @@ let text
     function display(){
 
         text = textBox.value();
-        
 
     }
