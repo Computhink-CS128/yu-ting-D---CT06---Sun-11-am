@@ -14,7 +14,8 @@ let button;
 
         textBox=createInput();
         textBox.position(width/2-textBox.width/2,200);
-        
+
+        button=create
     }
 
     function draw(){
