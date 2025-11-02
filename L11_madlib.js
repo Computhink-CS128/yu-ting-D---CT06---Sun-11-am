@@ -218,7 +218,7 @@ function setup() {
 
     let template = random(storyTemplates)
 
-    st
+    storyText = template.
 
     textBox1 = createInput(); 
     textBox1.position(width/2-textBox1.width/2, 50); 
