@@ -244,6 +244,8 @@ function setup() {
 
     storyText = template.replace("{noun}",displayText1)
                         .replace("{noun}",displayText1)
+                        .replace("{noun}",displayText1)
+                        
 }
 
 function draw() {
