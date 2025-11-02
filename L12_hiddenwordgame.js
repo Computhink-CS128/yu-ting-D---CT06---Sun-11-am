@@ -30,6 +30,7 @@ let text
 
     function display(){
 
-        text = textBox.
+        text = textBox.value();
+        
 
     }
