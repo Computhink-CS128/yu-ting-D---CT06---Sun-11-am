@@ -18,6 +18,6 @@ let button;
     function draw(){
         textAlign(CENTER,CENTER)
         text("Guess za word :D",width/2,50);
-        text("attempz: " +attempts,width/2,50);
+        text("attempz: " +attempts,width/2,100);
         text("hint: "+ randWord,width/2,150)
     }
