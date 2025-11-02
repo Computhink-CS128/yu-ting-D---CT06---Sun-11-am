@@ -15,7 +15,8 @@ let button;
         textBox=createInput();
         textBox.position(width/2-textBox.width/2,200);
 
-        button=createButton('guess')
+        button=createButton('guess');
+        button.position
     }
 
     function draw(){
