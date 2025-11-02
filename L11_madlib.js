@@ -250,7 +250,7 @@ function draw() {
         text(arr[i], 50, 50+i*50 + 20);
     }
 
-    text(storyText,)
+    text(storyText,50,350);
     
     
 }
