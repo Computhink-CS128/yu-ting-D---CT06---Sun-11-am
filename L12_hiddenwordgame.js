@@ -21,7 +21,7 @@ let textDis;
         button.mossePressed(display);
 
         randWord = random(words)
-        randWord = randWord[0].toUpperCase()+""+"_".repeat(randWord.length)
+        randWord = randWord[0].toUpperCase()+""+"_".repeat(randWord.length-1)
     }
 
     function draw(){
