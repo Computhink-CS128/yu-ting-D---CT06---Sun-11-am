@@ -27,4 +27,6 @@ let button;
         text("hint: "+ randWord,width/2,150)
     }
 
-    funct
+    function display(){
+        
+    }
