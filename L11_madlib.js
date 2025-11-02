@@ -242,7 +242,7 @@ function setup() {
     button.position(width/2 - button.width/2,300); 
     button.mousePressed(display); 
 
-    storyText = template.replace
+    storyText = template.replace("noun",)
 }
 
 function draw() {
