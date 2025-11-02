@@ -17,7 +17,7 @@ let button;
 
         button=createButton('guess');
         button.position(width/2-textBox.width/2+textBox.width+30,200);
-        button.mossepressed
+        button.mossePressed
     }
 
     function draw(){
