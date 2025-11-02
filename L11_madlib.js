@@ -98,7 +98,7 @@ function draw(){
         text(arr[i],50,50+i*50+15);
     }
 
-    for(let i=0; i<arr.length;i++){    
+    for(let i=0; i<arr2.length;i++){    
         text(arr2[i],50,350+i*50);
     }
 }
