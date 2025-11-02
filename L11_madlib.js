@@ -216,8 +216,6 @@ let storyTemplates = [
 function setup() {
     createCanvas(600, 600); 
 
-    let template = random(storyTemplates)
-
     textBox1 = createInput(); 
     textBox1.position(width/2-textBox1.width/2, 50); 
     textBox1.size(150, 30); 
@@ -265,6 +263,8 @@ function draw() {
 }
 
 function display() {
+        let template = random(storyTemplates)
+        
     displayText1 = textBox1.value(); 
     arr2.push(displayText1); 
 
