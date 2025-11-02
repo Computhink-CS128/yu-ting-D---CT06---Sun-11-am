@@ -118,9 +118,9 @@ function display(){
 
     displpayText4 = "Adverb: " + textBox4.value();
     arr2.push(displayText4);
-    console.log(displayText4)
+    // console.log(displayText4)
 
     displpayText5 = "place: " + textBox5.value();
     arr2.push(displayText5);
-    console.log(displayText5)
+    // console.log(displayText5)
 }
