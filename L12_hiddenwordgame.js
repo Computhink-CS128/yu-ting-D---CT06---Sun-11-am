@@ -20,7 +20,7 @@ let textDis;
         button.position(width/2-textBox.width/2+textBox.width+30,200);
         button.mossePressed(display);
 
-        randWord = 
+        randWord = random(words)
     }
 
     function draw(){
