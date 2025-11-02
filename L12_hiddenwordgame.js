@@ -14,5 +14,5 @@ let attempts =0;
         textAlign(CENTER,CENTER)
         text("Guess za word :D",width/2,50);
         text("attempz: " +attempts);
-        text("hint: "+ rand)
+        text("hint: "+ randWord)
     }
