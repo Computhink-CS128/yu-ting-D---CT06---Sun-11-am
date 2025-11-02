@@ -7,5 +7,5 @@ let words = [
 
 
     function setup() {
-        
+        crea
     }
