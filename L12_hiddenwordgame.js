@@ -8,6 +8,7 @@ let attempts =0;
 let randWord ="";
 let textBox;
 let button;
+let
 
     function setup() {
         createCanvas(600,400);
@@ -28,5 +29,5 @@ let button;
     }
 
     function display(){
-        
+
     }
