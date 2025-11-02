@@ -240,11 +240,6 @@ function setup() {
     button.position(width/2 - button.width/2,300); 
     button.mousePressed(display); 
 
-    storyText = template.replace("{noun}",displayText1)
-                        .replace("{verb}",displayText2)
-                        .replace("{adj}",displayText3)
-                        .replace("{adv}",displayText4)
-                        .replace("{place}",displayText5)
 
 }
 
@@ -280,5 +275,10 @@ function display() {
     displayText5 = textBox5.value(); 
     arr2.push(displayText5); 
 
+        storyText = template.replace("{noun}",displayText1)
+                        .replace("{verb}",displayText2)
+                        .replace("{adj}",displayText3)
+                        .replace("{adv}",displayText4)
+                        .replace("{place}",displayText5)
 
 }
