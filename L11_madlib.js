@@ -275,7 +275,7 @@ function display() {
     displayText5 = textBox5.value(); 
     arr2.push(displayText5); 
 
-        storyText = template.replace("{noun}",displayText1)
+    storyText = template.replace("{noun}",displayText1)
                         .replace("{verb}",displayText2)
                         .replace("{adj}",displayText3)
                         .replace("{adv}",displayText4)
