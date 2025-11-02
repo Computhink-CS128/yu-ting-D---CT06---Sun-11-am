@@ -13,7 +13,7 @@ let button;
         createCanvas(600,400);
 
         textBox=createInput();
-        
+        textBox.postition
     }
 
     function draw(){
