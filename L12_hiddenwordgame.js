@@ -6,4 +6,6 @@ let words = [
     "pineapple", "furniture", "telephone", "lighthouse"];
 
 
-    fucnti
+    function setup() {
+        
+    }
