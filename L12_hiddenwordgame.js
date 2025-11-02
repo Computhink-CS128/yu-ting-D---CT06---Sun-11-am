@@ -21,6 +21,7 @@ let textDis;
         button.mossePressed(display);
 
         randWord = random(words)
+        
     }
 
     function draw(){
