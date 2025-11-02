@@ -93,7 +93,7 @@ function setup(){
 function draw(){
     background(220);
 
-    textSize(20);
+    textSize(15);
     for(let i=0; i<arr.length;i++){    
         text(arr[i],50,50+i*50+15);
     }
