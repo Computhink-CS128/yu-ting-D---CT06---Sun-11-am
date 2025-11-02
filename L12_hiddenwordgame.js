@@ -13,5 +13,6 @@ let attempts =0;
     function draw(){
         textAlign(CENTER,CENTER)
         text("Guess za word :D",width/2,50);
-        text("attempz: ")
+        text("attempz: " +attempts);
+        
     }
