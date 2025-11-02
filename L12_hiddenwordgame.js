@@ -17,7 +17,7 @@ let button;
 
         button=createButton('guess');
         button.position(width/2-textBox.width/2+textBox.width+30,200);
-        button.mossePressed
+        button.mossePressed(display);
     }
 
     function draw(){
@@ -26,3 +26,5 @@ let button;
         text("attempz: " +attempts,width/2,100);
         text("hint: "+ randWord,width/2,150)
     }
+
+    funct
