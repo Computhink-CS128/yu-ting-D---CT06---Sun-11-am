@@ -245,7 +245,7 @@ function setup() {
     storyText = template.replace("{noun}",displayText1)
                         .replace("{verb}",displayText2)
                         .replace("{adj}",displayText3)
-                        .replace("{noun}",displayText4)
+                        .replace("{adv}",displayText4)
                         .replace("{noun}",displayText5)
 
 }
