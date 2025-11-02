@@ -11,5 +11,5 @@ let attempts =0;
     }
 
     function draw(){
-        textAlign()
+        textAlign(CENTER,)
     }
