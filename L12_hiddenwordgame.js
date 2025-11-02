@@ -9,3 +9,7 @@ let attempts =0;
     function setup() {
         createCanvas(600,400);
     }
+
+    function draw(){
+        
+    }
