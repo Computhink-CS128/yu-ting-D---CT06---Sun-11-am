@@ -43,6 +43,6 @@ let message;
         attempts++;
 
         let guess = textBox.value().toLowerCase();
-        message = getCorrr
+        message = getCorrectLetters(g)
 
     }
