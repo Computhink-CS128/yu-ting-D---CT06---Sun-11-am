@@ -11,6 +11,7 @@ let button;
 let textDis; 
 let message; 
 let hiddenWord; 
+let score = 0;
 
 function setup() {
     createCanvas(600, 400); 
