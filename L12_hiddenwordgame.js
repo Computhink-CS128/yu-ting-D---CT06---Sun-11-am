@@ -56,6 +56,7 @@ let message;
     }
 
     function getCorrectLetters(guess,hiddenWord){
-        let getCorrectLetters
+        let correctLetters = ""
+        
 
     }
