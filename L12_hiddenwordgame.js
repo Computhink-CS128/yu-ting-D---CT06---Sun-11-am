@@ -56,5 +56,6 @@ let message;
     }
 
     function getCorrectLetters(guess,hiddenWord){
+        let
 
     }
