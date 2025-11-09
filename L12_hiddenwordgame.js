@@ -39,5 +39,5 @@ let textDis;
     }
 
     function checkGuess(){
-        
+        attempts +=
     }
