@@ -38,4 +38,6 @@ let textDis;
 
     }
 
-    function checkGuess()
+    function checkGuess(){
+        
+    }
