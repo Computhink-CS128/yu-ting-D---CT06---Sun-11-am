@@ -33,11 +33,11 @@ let message;
         text(textDis,width/2,250);
     }
 
-    function display(){
+    // function display(){
 
-        textDis = textBox.value();
+    //     textDis = textBox.value();
 
-    }
+    // }
 
     function checkGuess(){
         attempts++;
