@@ -33,7 +33,7 @@ function draw() {
     textAlign(CENTER, CENTER); 
     textSize(24); 
     text("Guess za Word >:3", width/2, 50); 
-    text("Attempts: " + attempts, width/2, 100); 
+    text("score: " + attempts, width/2, 100); 
     text("Hint: " + hiddenWord, width/2, 150); 
     text(message, width/2, 250); 
 
