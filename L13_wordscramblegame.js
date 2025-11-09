@@ -75,7 +75,7 @@ function scrambleWord(){
 
     for(leti=0;i>0;i--){
         let j=floor(random(i+1));
-        arr[i],arr[j] = arr
+        arr[i],arr[j] = [arr[j]]
 
     }
 
