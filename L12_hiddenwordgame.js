@@ -46,7 +46,7 @@ let message;
         message = getCorrectLetters(guess,hiddenWord);
 
         if(guess == hiddenWord){
-            message = "correct"
+            message = "correct" + hiddenWord;
         }
 
     }
