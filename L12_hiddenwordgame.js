@@ -23,7 +23,7 @@ let message;
 
         randWord = random(words)
         console.log(randWord)
-        randWord = randWord[0].toUpperCase()+" "+"_ ".repeat(randWord.length-1)
+        hiddenWordWord = randWord[0].toUpperCase()+" "+"_ ".repeat(randWord.length-1)
     }
 
     function draw(){
