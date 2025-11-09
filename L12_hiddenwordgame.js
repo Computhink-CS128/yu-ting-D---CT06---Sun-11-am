@@ -60,7 +60,7 @@ let message;
 
         for(let i =0;i<hiddenWord.length;i++){
             if(hiddenWord.includes(guess[[i]])) {
-                correctLetters += guess[i].to
+                correctLetters += guess[i].toUpperCase
             }
         }
     }
