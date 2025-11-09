@@ -53,7 +53,7 @@ let message;
         //     message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
         } 
         else {
-            message = "letters starclan says is correct:"
+            message = "letters starclan says is correct: " + message
         }
 
     }
