@@ -47,7 +47,7 @@ function checkGuess() {
     message = getCorrectLetters(guess, randWord); 
 
     if(guess == randWord) {
-        message = "wow starclan blessed u w/ knowlage, the word was:  " + randWord; 
+        message = "starclan blessed u w/ knowlage, the word was:  " + randWord; 
     } else {
         message = "letters starclan says is correct: " + message; 
     }
