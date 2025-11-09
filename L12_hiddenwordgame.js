@@ -48,7 +48,7 @@ let message;
         if(guess == hiddenWord){
             message = "correct" + hiddenWord;
         } else if(guess.length != 5){
-            message= "FIVE LETTERS ONLY >:"
+            message= "FIVE LETTERS ONLY >:("
         }
 
     }
