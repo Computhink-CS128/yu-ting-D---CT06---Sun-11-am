@@ -71,5 +71,5 @@ function getCorrectLetters(guess, randWord) {
 }
 
 function scrambleWord(){
-    
+
 }
