@@ -84,6 +84,6 @@ function scrambleWord(){
 function pickNewWord(){
     console.log(randWord);
 
-    newS=
+    newS = scrambleWord(randWord)
 
 }
