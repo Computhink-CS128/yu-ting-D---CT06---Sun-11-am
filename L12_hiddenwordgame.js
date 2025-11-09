@@ -59,7 +59,7 @@ let message;
         let correctLetters = ""
 
         for(let i =0;i<hiddenWord.length;i++){
-            if(hiddenWord.includes(guess[i])) { 
+            if(hiddenWord.includes(guess[i])&&!correctLetters) {
                 correctLetters += guess[i].toUpperCase
             }
         }
