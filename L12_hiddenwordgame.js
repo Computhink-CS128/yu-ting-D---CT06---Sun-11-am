@@ -60,7 +60,7 @@ let message;
 
         for(let i =0;i<hiddenWord.length;i++){
             if(hiddenWord.includes(guess[[i]])) {
-                correctLetters +=
+                correctLetters += guess[i].to
             }
         }
     }
