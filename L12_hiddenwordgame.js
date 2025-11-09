@@ -41,5 +41,5 @@ let textDis;
     function checkGuess(){
         attempts++;
 
-        let guess
+        let guess = textBox.va
     }
