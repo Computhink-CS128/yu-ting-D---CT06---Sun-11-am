@@ -47,9 +47,9 @@ let message;
 
         if(guess == hiddenWord){
             message = "correct" + hiddenWord;
-        } else if(guess.length != 5){
-            message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
-        } else {
+        // } else if(guess.length != 5){
+        //     message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
+        // } else {
             message = "Try again :D"
         }
 
