@@ -78,5 +78,5 @@ function scrambleWord(){
         arr[i],arr[j] = [arr[j],arr[i]];
     }
 
-    return arr.join
+    return arr.join('');
 }
