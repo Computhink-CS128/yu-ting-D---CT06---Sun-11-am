@@ -50,7 +50,7 @@ let message;
         } else if(guess.length != 5){
             message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
         } else {
-            message = "Try again "
+            message = "Try again :D"
         }
 
     }
