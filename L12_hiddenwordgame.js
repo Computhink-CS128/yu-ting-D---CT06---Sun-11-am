@@ -124,7 +124,7 @@ function checkGuess() {
     if(guess == randWord) {
         message = "wow starclan blessed u w/ knowlage, the word was:  " + randWord; 
     } else {
-        message = "lett: " + message; 
+        message = "letters starclan says is correct: " + message; 
     }
 
 
