@@ -9,6 +9,7 @@ let randWord ="";
 let textBox;
 let button;
 let textDis;
+let message;
 
     function setup() {
         createCanvas(600,400);
@@ -42,5 +43,5 @@ let textDis;
         attempts++;
 
         let guess = textBox.value().toLowerCase();
-        
+
     }
