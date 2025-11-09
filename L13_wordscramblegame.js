@@ -20,7 +20,7 @@ function setup() {
     textBox.position(width/2-textBox.width/2, 200); 
 
     button = createButton('rescramble'); 
-    button.position(button.x, 200);
+    button.position(width/2-textBox.width/2 + textBox.width + 30, 200);
     button.mousePressed(checkGuess); 
 
     button2 = createButton('submit'); 
