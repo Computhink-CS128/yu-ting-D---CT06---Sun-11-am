@@ -6,6 +6,7 @@ let words = [
     "pineapple", "furniture", "telephone", "lighthouse"];
 let attempts =0;
 let randWord ="";
+let hiddenWord
 let textBox;
 let button;
 let textDis;
