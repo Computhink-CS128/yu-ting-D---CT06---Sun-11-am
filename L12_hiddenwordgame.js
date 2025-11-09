@@ -1,69 +1,72 @@
-// write your codes here
+// // write your codes here
 
-let words = [
-    "elephant", "backpack", "keyboard", "hospital", "sunlight", "raincoat", "notebook", "shoulder", 
-    "football", "bathroom", "sandwich", "airplane", "umbrella", "medicine", "chocolate", "software", 
-    "pineapple", "furniture", "telephone", "lighthouse"];
-let attempts =0;
-let randWord ="";
-let hiddenWord
-let textBox;
-let button;
-let textDis;
-let message;
+// let words = [
+//     "elephant", "backpack", "keyboard", "hospital", "sunlight", "raincoat", "notebook", "shoulder", 
+//     "football", "bathroom", "sandwich", "airplane", "umbrella", "medicine", "chocolate", "software", 
+//     "pineapple", "furniture", "telephone", "lighthouse"];
+// let attempts =0;
+// let randWord ="";
+// let hiddenWord
+// let textBox;
+// let button;
+// let textDis;
+// let message;
 
-    function setup() {
-        createCanvas(600,400);
+//     function setup() {
+//         createCanvas(600,400);
 
-        textBox=createInput();
-        textBox.position(width/2-textBox.width/2,200);
+//         textBox=createInput();
+//         textBox.position(width/2-textBox.width/2,200);
 
-        button=createButton('guess');
-        button.position(width/2-textBox.width/2+textBox.width+30,200);
-        button.mousePressed(checkGuess);
+//         button=createButton('guess');
+//         button.position(width/2-textBox.width/2+textBox.width+30,200);
+//         button.mousePressed(checkGuess);
 
-        randWord = random(words)
-        console.log(randWord)
-        hiddenWord = randWord[0].toUpperCase()+" "+"_ ".repeat(randWord.length-1)
-    }
+//         randWord = random(words)
+//         console.log(randWord)
+//         hiddenWord = randWord[0].toUpperCase()+" "+"_ ".repeat(randWord.length-1)
+//     }
 
-    function draw(){
-        textAlign(CENTER,CENTER)
-        text("Guess za word :D",width/2,50);
-        text("attempz: " +attempts,width/2,100);
-        text("hint: "+ hiddenWord,width/2,150);
-        text(message,width/2,250);
-    }
+//     function draw(){
+//         textAlign(CENTER,CENTER)
+//         text("Guess za word :D",width/2,50);
+//         text("attempz: " +attempts,width/2,100);
+//         text("hint: "+ hiddenWord,width/2,150);
+//         text(message,width/2,250);
+//     }
 
-    // function display(){
+//     // function display(){
 
-    //     textDis = textBox.value();
+//     //     textDis = textBox.value();
 
-    // }
+//     // }
 
-    function checkGuess(){
-        attempts++;
+//     function checkGuess(){
+//         attempts++;
 
-        let guess = textBox.value().toLowerCase();
-        message = getCorrectLetters(guess,randWord);
+//         let guess = textBox.value().toLowerCase();
+//         message = getCorrectLetters(guess,randWord);
 
-        if(guess == randWord){
-            message = "correct" + randWord;
-        // } else if(guess.length != 5){
-        //     message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
-        } 
-        else {
-            message = "letters starclan says is correct: " + message
-        }
+//         if(guess == randWord){
+//             message = "correct" + randWord;
+//         // } else if(guess.length != 5){
+//         //     message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
+//         } 
+//         else {
+//             message = "letters starclan says is correct: " + message
+//         }
 
-    }
+//     }
 
-    function getCorrectLetters(guess,randWord){
-        let correctLetters = ""
+//     function getCorrectLetters(guess,randWord){
+//         let correctLetters = ""
 
-        for(let i =0;i<randWord.length;i++){
-            if(randWord.includes(guess[i])&&!correctLetters.includes(guess[i].toUpperCase)) {
-                correctLetters += guess[i].toUpperCase
-            }
-        }
-    }
+//         for(let i =0;i<randWord.length;i++){
+//             if(randWord.includes(guess[i])&&!correctLetters.includes(guess[i].toUpperCase)) {
+//                 correctLetters += guess[i].toUpperCase
+//             }
+//         }
+//     }
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
