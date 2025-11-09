@@ -44,7 +44,7 @@ let message;
         attempts++;
 
         let guess = textBox.value().toLowerCase();
-        message = getCorrectLetters(guess,hiddenWord);
+        message = getCorrectLetters(guess,randWord);
 
         if(guess == hiddenWord){
             message = "correct" + hiddenWord;
