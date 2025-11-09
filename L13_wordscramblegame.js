@@ -80,3 +80,7 @@ function scrambleWord(){
 
     return arr.join('');
 }
+
+function pickNewWord(){
+    ranf\
+}
