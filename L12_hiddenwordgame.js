@@ -52,7 +52,7 @@ let message;
         //     message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
         } 
         else {
-            message = "TrOH FOR STAR"
+            message = "OH 4 STARCLANS SAKE HOW ARE YOU THAT* BAD"
         }
 
     }
