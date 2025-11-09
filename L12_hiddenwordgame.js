@@ -46,8 +46,8 @@ let message;
         let guess = textBox.value().toLowerCase();
         message = getCorrectLetters(guess,randWord);
 
-        if(guess == hiddenWord){
-            message = "correct" + hiddenWord;
+        if(guess == randWord){
+            message = "correct" + randWord;
         // } else if(guess.length != 5){
         //     message= "FIVE LETTERS ONLY FOR STARCLANS SAKE >:("
         } 
@@ -57,7 +57,7 @@ let message;
 
     }
 
-    function getCorrectLetters(guess,hiddenWord){
+    function getCorrectLetters(guess,randWord){
         let correctLetters = ""
 
         for(let i =0;i<hiddenWord.length;i++){
