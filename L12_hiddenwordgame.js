@@ -22,7 +22,7 @@ let message;
         button.mousePressed(checkGuess);
 
         randWord = random(words)
-        console.l
+        console.log(randWord)
         randWord = randWord[0].toUpperCase()+" "+"_ ".repeat(randWord.length-1)
     }
 
