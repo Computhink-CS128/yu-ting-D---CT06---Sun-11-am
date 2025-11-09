@@ -82,5 +82,5 @@ function scrambleWord(){
 }
 
 function pickNewWord(){
-    ranf\
+    randWord.lod
 }
