@@ -84,4 +84,6 @@ function scrambleWord(){
 function pickNewWord(){
     console.log(randWord);
 
+    newS=
+
 }
