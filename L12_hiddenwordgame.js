@@ -122,7 +122,7 @@ function checkGuess() {
     message = getCorrectLetters(guess, randWord); 
 
     if(guess == randWord) {
-        message = " " + randWord; 
+        message = "wow star " + randWord; 
     } else {
         message = "Try again. The letters you get it right is/are: " + message; 
     }
