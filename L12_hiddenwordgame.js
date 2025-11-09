@@ -37,3 +37,5 @@ let textDis;
         textDis = textBox.value();
 
     }
+
+    function checkGuess()
