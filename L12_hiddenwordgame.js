@@ -122,7 +122,7 @@ function checkGuess() {
     message = getCorrectLetters(guess, randWord); 
 
     if(guess == randWord) {
-        message = "wow starclan blessed u w/ knowlage " + randWord; 
+        message = "wow starclan blessed u w/ knowlage, the word was:  " + randWord; 
     } else {
         message = "Try again. The letters you get it right is/are: " + message; 
     }
